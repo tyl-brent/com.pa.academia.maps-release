@@ -1,0 +1,33 @@
+{
+    "context": "client",
+    "identifier": "com.pa.academia.maps",
+    "display_name": "Academia Map Pack",
+    "description": "Team Maps",
+    "author": "Academia",
+    "version": "1.0.0",
+    "build": "113426",
+    "date": "2020/09/25",
+    "signature": "not yet implemented",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/98px-Archlinux-icon-crystal-64.svg.png",
+    "category": [
+        "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/academia/maps.js"
+    ],
+    "searchable": [
+        "academia",
+        "annihilation",
+        "map",
+        "pack",
+        "maps",
+        "systems",
+        "system",
+        "planet", 
+        "5v5", 
+        "10v10", 
+        "team"
+    ],
+    "priority": 100,
+    "enabled": true
+}
