@@ -21,4 +21,8 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/toxicitiy-tri_5v5.pas",
 "coui://ui/mods/academia/systems/toxicitiy-tri_6v6.pas",
 "coui://ui/mods/academia/systems/toxicitiy-tri_7v7.pas"
+"coui://ui/mods/academia/systems/digix_5v5.pas",
+"coui://ui/mods/academia/systems/toxicitiy_5v5.pas",
+"coui://ui/mods/academia/systems/toxicitiy-a_5v5.pas",
+"coui://ui/mods/academia/systems/toxicitiy-duo_5v5.pas"
 ]);
