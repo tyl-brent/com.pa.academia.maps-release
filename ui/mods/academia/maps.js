@@ -17,5 +17,8 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/zeptune-1_10v10.pas",
 "coui://ui/mods/academia/systems/zyion-alpha_8v8.pas",
 "coui://ui/mods/academia/systems/zypherium_8v8.pas",
-"coui://ui/mods/academia/systems/zypherium_duo 8v8.pas"
+"coui://ui/mods/academia/systems/zypherium_duo 8v8.pas",
+"coui://ui/mods/academia/systems/toxicitiy-tri_5v5.pas",
+"coui://ui/mods/academia/systems/toxicitiy-tri_6v6.pas",
+"coui://ui/mods/academia/systems/toxicitiy-tri_7v7.pas"
 ]);
