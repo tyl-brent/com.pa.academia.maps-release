@@ -1,7 +1,7 @@
 {
     "name": "Toxicitiy-Tri 5v5",
     "description": "",
-    "creator": "",
+    "creator": "Academia",
     "version": "",
     "planets": [
         {
@@ -73,15 +73,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.0609741210938,
                     "op": "BO_Add",
                     "position": [
                         -320.3882141113281,
                         76.96092987060547,
                         705.9492797851562
                     ],
-                    "height": 779.0609741210938,
                     "transform": [
                         -0.3325943648815155,
                         -0.07187137007713318,
@@ -116,21 +116,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.0443115234375,
                     "op": "BO_Add",
                     "position": [
                         454.3058776855469,
                         570.4169311523438,
                         274.11798095703125
                     ],
-                    "height": 779.0443115234375,
                     "transform": [
                         0.4363510310649872,
                         -0.15775081515312195,
@@ -165,21 +165,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.6530151367188,
                     "op": "BO_Add",
                     "position": [
                         489.7503662109375,
                         -319.88299560546875,
                         519.9666137695312
                     ],
-                    "height": 782.6530151367188,
                     "transform": [
                         0.32049182057380676,
                         0.1408291608095169,
@@ -214,21 +214,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.1409912109375,
                     "op": "BO_Add",
                     "position": [
                         -110.39938354492188,
                         758.3367919921875,
                         151.3887176513672
                     ],
-                    "height": 781.1409912109375,
                     "transform": [
                         -0.35326433181762695,
                         0.3755887448787689,
@@ -263,21 +263,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.6054077148438,
                     "op": "BO_Add",
                     "position": [
                         -4.8555313280273724e-14,
                         618.5025634765625,
                         474.59375
                     ],
-                    "height": 779.6054077148438,
                     "transform": [
                         -0.383787602186203,
                         -0.26874881982803345,
@@ -312,21 +312,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.3507080078125,
                     "op": "BO_Add",
                     "position": [
                         477.30419921875,
                         308.6229553222656,
                         539.0463256835938
                     ],
-                    "height": 783.3507080078125,
                     "transform": [
                         0.2345244288444519,
                         0.3431742787361145,
@@ -361,21 +361,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.1097412109375,
                     "op": "BO_Add",
                     "position": [
                         397.75665283203125,
                         -234.1470184326172,
                         631.3956298828125
                     ],
-                    "height": 782.1097412109375,
                     "transform": [
                         0.5509855151176453,
                         0.018496360629796982,
@@ -410,21 +410,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.1245727539062,
                     "op": "BO_Add",
                     "position": [
                         -493.0556640625,
                         415.1575927734375,
                         441.24365234375
                     ],
-                    "height": 781.1245727539062,
                     "transform": [
                         -0.45211663842201233,
                         -0.02743636816740036,
@@ -459,21 +459,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.9930419921875,
                     "op": "BO_Add",
                     "position": [
                         101.76715087890625,
                         28.034292221069336,
                         772.8173828125
                     ],
-                    "height": 779.9930419921875,
                     "transform": [
                         0.2085759937763214,
                         0.3222254514694214,
@@ -508,21 +508,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 10,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.3117065429688,
                     "op": "BO_Add",
                     "position": [
                         -713.3003540039062,
                         120.88455200195312,
                         292.3623962402344
                     ],
-                    "height": 780.3117065429688,
                     "transform": [
                         -0.19945979118347168,
                         -0.030316714197397232,
@@ -557,21 +557,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 11,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.974853515625,
                     "op": "BO_Add",
                     "position": [
                         99.86626434326172,
                         -547.6990356445312,
                         547.6990356445312
                     ],
-                    "height": 780.974853515625,
                     "transform": [
                         -0.15682274103164673,
                         -0.38210347294807434,
@@ -606,21 +606,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 12,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.5098876953125,
                     "op": "BO_Add",
                     "position": [
                         -621.58544921875,
                         -65.682861328125,
                         465.78204345703125
                     ],
-                    "height": 779.5098876953125,
                     "transform": [
                         -0.3736341893672943,
                         -0.02401750721037388,
@@ -655,21 +655,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 13,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.8914794921875,
                     "op": "BO_Add",
                     "position": [
                         27.729524612426758,
                         764.4158325195312,
                         152.08642578125
                     ],
-                    "height": 779.8914794921875,
                     "transform": [
                         0.25735628604888916,
                         -0.28084373474121094,
@@ -704,21 +704,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 14,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.9443969726562,
                     "op": "BO_Add",
                     "position": [
                         -609.9844360351562,
                         174.42990112304688,
                         457.0888366699219
                     ],
-                    "height": 781.9443969726562,
                     "transform": [
                         0.1260073184967041,
                         -0.1979016363620758,
@@ -753,21 +753,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 15,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.6123657226562,
                     "op": "BO_Add",
                     "position": [
                         -229.9209442138672,
                         -481.4548645019531,
                         569.8186645507812
                     ],
-                    "height": 780.6123657226562,
                     "transform": [
                         -0.14987698197364807,
                         0.5962733030319214,
@@ -802,21 +802,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.2161865234375,
                     "op": "BO_Add",
                     "position": [
                         -576.14404296875,
                         506.453125,
                         147.85879516601562
                     ],
-                    "height": 781.2161865234375,
                     "transform": [
                         -0.3328099846839905,
                         0.1499015986919403,
@@ -851,21 +851,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.8812255859375,
                     "op": "BO_Add",
                     "position": [
                         -4.329210465591968e-14,
                         -387.493896484375,
                         676.8036499023438
                     ],
-                    "height": 779.8812255859375,
                     "transform": [
                         -0.5257315635681152,
                         0.2737959325313568,
@@ -900,21 +900,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 18,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.08837890625,
                     "op": "BO_Add",
                     "position": [
                         50.425113677978516,
                         -139.46009826660156,
                         764.8444213867188
                     ],
-                    "height": 779.08837890625,
                     "transform": [
                         0.44135457277297974,
                         0.0878845751285553,
@@ -949,21 +949,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 19,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.547119140625,
                     "op": "BO_Add",
                     "position": [
                         -439.50823974609375,
                         -369.75823974609375,
                         525.592041015625
                     ],
-                    "height": 778.547119140625,
                     "transform": [
                         -0.2603501081466675,
                         -0.19604894518852234,
@@ -998,21 +998,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.575439453125,
                     "op": "BO_Add",
                     "position": [
                         -4.327513350378849e-14,
                         84.48690795898438,
                         774.9837646484375
                     ],
-                    "height": 779.575439453125,
                     "transform": [
                         0.313436359167099,
                         0.30725786089897156,
@@ -1047,21 +1047,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.9900512695312,
                     "op": "BO_Add",
                     "position": [
                         123.40331268310547,
                         562.6153564453125,
                         527.4287109375
                     ],
-                    "height": 780.9900512695312,
                     "transform": [
                         0.41388750076293945,
                         -0.012612538412213326,
@@ -1096,21 +1096,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.975830078125,
                     "op": "BO_Add",
                     "position": [
                         -292.73004150390625,
                         179.71322631835938,
                         700.2674560546875
                     ],
-                    "height": 779.975830078125,
                     "transform": [
                         0.4716133177280426,
                         -0.12545493245124817,
@@ -1145,21 +1145,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 23,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.3018798828125,
                     "op": "BO_Add",
                     "position": [
                         649.7400512695312,
                         -406.0039978027344,
                         142.51312255859375
                     ],
-                    "height": 779.3018798828125,
                     "transform": [
                         0.08931070566177368,
                         0.2661508321762085,
@@ -1194,21 +1194,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 24,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.3165893554688,
                     "op": "BO_Add",
                     "position": [
                         -582.2463989257812,
                         -511.0172424316406,
                         84.76397705078125
                     ],
-                    "height": 779.3165893554688,
                     "transform": [
                         -0.2643105089664459,
                         0.04822513461112976,
@@ -1243,21 +1243,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 26,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.8594360351562,
                     "op": "BO_Add",
                     "position": [
                         322.1395263671875,
                         25.78626823425293,
                         710.8464965820312
                     ],
-                    "height": 780.8594360351562,
                     "transform": [
                         -0.16561156511306763,
                         -0.33174386620521545,
@@ -1292,21 +1292,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 27,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.5401611328125,
                     "op": "BO_Add",
                     "position": [
                         529.88623046875,
                         469.72003173828125,
                         325.98553466796875
                     ],
-                    "height": 779.5401611328125,
                     "transform": [
                         0.038847848773002625,
                         -0.3970326781272888,
@@ -1341,21 +1341,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 29,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.7359008789062,
                     "op": "BO_Add",
                     "position": [
                         213.19808959960938,
                         -467.91058349609375,
                         587.4986572265625
                     ],
-                    "height": 780.7359008789062,
                     "transform": [
                         0.5489375591278076,
                         -0.10357643663883209,
@@ -1390,21 +1390,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 30,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.2332153320312,
                     "op": "BO_Add",
                     "position": [
                         -673.027587890625,
                         -163.21926879882812,
                         357.20819091796875
                     ],
-                    "height": 779.2332153320312,
                     "transform": [
                         0.260903000831604,
                         0.08633014559745789,
@@ -1439,21 +1439,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 31,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.2560424804688,
                     "op": "BO_Add",
                     "position": [
                         -650.4656372070312,
                         -45.21366882324219,
                         428.54364013671875
                     ],
-                    "height": 780.2560424804688,
                     "transform": [
                         0.2462778091430664,
                         0.04275641590356827,
@@ -1488,21 +1488,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 32,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.1975708007812,
                     "op": "BO_Add",
                     "position": [
                         581.1765747070312,
                         20.815990447998047,
                         520.1045532226562
                     ],
-                    "height": 780.1975708007812,
                     "transform": [
                         -0.3331032991409302,
                         -0.22579599916934967,
@@ -1537,21 +1537,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 33,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.602783203125,
                     "op": "BO_Add",
                     "position": [
                         176.60140991210938,
                         82.40481567382812,
                         755.885009765625
                     ],
-                    "height": 780.602783203125,
                     "transform": [
                         -0.5659123063087463,
                         0.1314055472612381,
@@ -1586,21 +1586,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 34,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.53857421875,
                     "op": "BO_Add",
                     "position": [
                         -112.74270629882812,
                         -424.91717529296875,
                         644.961181640625
                     ],
-                    "height": 780.53857421875,
                     "transform": [
                         -0.32921454310417175,
                         -0.24522404372692108,
@@ -1635,21 +1635,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 35,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.455078125,
                     "op": "BO_Add",
                     "position": [
                         68.95563507080078,
                         -632.5181274414062,
                         453.6935729980469
                     ],
-                    "height": 781.455078125,
                     "transform": [
                         -0.5743387937545776,
                         0.10104822367429733,
@@ -1684,21 +1684,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 36,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.9176025390625,
                     "op": "BO_Add",
                     "position": [
                         584.705810546875,
                         -350.264404296875,
                         385.2193603515625
                     ],
-                    "height": 782.9176025390625,
                     "transform": [
                         0.16899420320987701,
                         0.35116058588027954,
@@ -1733,21 +1733,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 37,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.3994140625,
                     "op": "BO_Add",
                     "position": [
                         -343.30364990234375,
                         469.5901794433594,
                         524.730712890625
                     ],
-                    "height": 783.3994140625,
                     "transform": [
                         0.2754339873790741,
                         0.24852079153060913,
@@ -1782,21 +1782,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 39,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.1068115234375,
                     "op": "BO_Add",
                     "position": [
                         -192.72482299804688,
                         654.902099609375,
                         381.6431884765625
                     ],
-                    "height": 782.1068115234375,
                     "transform": [
                         -0.27850550413131714,
                         0.3791904151439667,
@@ -1831,21 +1831,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 41,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.7833251953125,
                     "op": "BO_Add",
                     "position": [
                         98.66053009033203,
                         244.58013916015625,
                         735.9564208984375
                     ],
-                    "height": 781.7833251953125,
                     "transform": [
                         -0.0012520002201199532,
                         -0.5978174209594727,
@@ -1880,21 +1880,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 42,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.5805053710938,
                     "op": "BO_Add",
                     "position": [
                         -688.2333984375,
                         47.03472137451172,
                         365.27862548828125
                     ],
-                    "height": 780.5805053710938,
                     "transform": [
                         0.2550051212310791,
                         -0.06673696637153625,
@@ -1929,21 +1929,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 43,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.476806640625,
                     "op": "BO_Add",
                     "position": [
                         -184.9034881591797,
                         378.2840576171875,
                         660.7175903320312
                     ],
-                    "height": 783.476806640625,
                     "transform": [
                         0.040645960718393326,
                         -0.5335501432418823,
@@ -1978,21 +1978,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 44,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.9080200195312,
                     "op": "BO_Add",
                     "position": [
                         -5.805144369765494e-14,
                         -739.46533203125,
                         251.01463317871094
                     ],
-                    "height": 780.9080200195312,
                     "transform": [
                         -0.04163418337702751,
                         0.49139511585235596,
@@ -2027,21 +2027,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 45,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.9425659179688,
                     "op": "BO_Add",
                     "position": [
                         -467.4351806640625,
                         586.9017333984375,
                         212.98147583007812
                     ],
-                    "height": 779.9425659179688,
                     "transform": [
                         0.09119243174791336,
                         -0.29580122232437134,
@@ -2076,21 +2076,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 46,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.1614379882812,
                     "op": "BO_Add",
                     "position": [
                         -253.66775512695312,
                         -345.37774658203125,
                         650.737548828125
                     ],
-                    "height": 779.1614379882812,
                     "transform": [
                         0.35240063071250916,
                         -0.0031531453132629395,
@@ -2125,21 +2125,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 47,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.5761108398438,
                     "op": "BO_Add",
                     "position": [
                         -4.338618629943711e-14,
                         468.6834411621094,
                         625.4574584960938
                     ],
-                    "height": 781.5761108398438,
                     "transform": [
                         -0.15368929505348206,
                         0.49025800824165344,
@@ -2174,21 +2174,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 48,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.35107421875,
                     "op": "BO_Add",
                     "position": [
                         -107.8492660522461,
                         482.7499084472656,
                         606.130615234375
                     ],
-                    "height": 782.35107421875,
                     "transform": [
                         0.45116251707077026,
                         0.32406386733055115,
@@ -2223,21 +2223,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 49,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.6337280273438,
                     "op": "BO_Add",
                     "position": [
                         624.7033081054688,
                         -6.500080692879023e-14,
                         468.11834716796875
                     ],
-                    "height": 780.6337280273438,
                     "transform": [
                         0.10061382502317429,
                         -0.3131901025772095,
@@ -2272,21 +2272,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 50,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.9678344726562,
                     "op": "BO_Add",
                     "position": [
                         -268.7172546386719,
                         -724.616943359375,
                         97.53073120117188
                     ],
-                    "height": 778.9678344726562,
                     "transform": [
                         0.4062836766242981,
                         -0.40348032116889954,
@@ -2321,21 +2321,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 51,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.4111328125,
                     "op": "BO_Add",
                     "position": [
                         572.1597900390625,
                         145.1086883544922,
                         512.0352172851562
                     ],
-                    "height": 781.4111328125,
                     "transform": [
                         -0.1650567203760147,
                         -0.20956867933273315,
@@ -2370,21 +2370,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 52,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.3173217773438,
                     "op": "BO_Add",
                     "position": [
                         -711.7239990234375,
                         1.0829078214388051e-14,
                         319.91259765625
                     ],
-                    "height": 780.3173217773438,
                     "transform": [
                         -0.14571143686771393,
                         -0.00739959767088294,
@@ -2419,21 +2419,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 53,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.8101806640625,
                     "op": "BO_Add",
                     "position": [
                         340.5372009277344,
                         -150.53692626953125,
                         686.32177734375
                     ],
-                    "height": 780.8101806640625,
                     "transform": [
                         0.3426175117492676,
                         -0.43338504433631897,
@@ -2468,21 +2468,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 54,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.725830078125,
                     "op": "BO_Add",
                     "position": [
                         -280.42138671875,
                         502.35528564453125,
                         530.7189331054688
                     ],
-                    "height": 782.725830078125,
                     "transform": [
                         0.11414379626512527,
                         0.4556067883968353,
@@ -2517,21 +2517,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 55,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.5352783203125,
                     "op": "BO_Add",
                     "position": [
                         -262.2510986328125,
                         279.2137451171875,
                         681.2205810546875
                     ],
-                    "height": 781.5352783203125,
                     "transform": [
                         0.48146897554397583,
                         -0.3508702516555786,
@@ -2566,21 +2566,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 56,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.701904296875,
                     "op": "BO_Add",
                     "position": [
                         -25.43579864501953,
                         -56.35423278808594,
                         776.2434692382812
                     ],
-                    "height": 778.701904296875,
                     "transform": [
                         0.3672310709953308,
                         0.5132172107696533,
@@ -2615,21 +2615,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 57,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.6238403320312,
                     "op": "BO_Add",
                     "position": [
                         -184.15945434570312,
                         717.5926513671875,
                         246.00733947753906
                     ],
-                    "height": 780.6238403320312,
                     "transform": [
                         -0.04702240601181984,
                         0.4648573398590088,
@@ -2664,21 +2664,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 58,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.4517822265625,
                     "op": "BO_Add",
                     "position": [
                         318.38238525390625,
                         153.13145446777344,
                         698.1505737304688
                     ],
-                    "height": 782.4517822265625,
                     "transform": [
                         -0.5134016871452332,
                         0.25354447960853577,
@@ -2713,21 +2713,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 59,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.6425170898438,
                     "op": "BO_Add",
                     "position": [
                         -512.6119995117188,
                         -572.8043212890625,
                         124.12989807128906
                     ],
-                    "height": 778.6425170898438,
                     "transform": [
                         0.2565056085586548,
                         -0.22778388857841492,
@@ -2762,21 +2762,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 60,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.192138671875,
                     "op": "BO_Add",
                     "position": [
                         -540.8018188476562,
                         159.14735412597656,
                         540.8018188476562
                     ],
-                    "height": 781.192138671875,
                     "transform": [
                         -0.3394608497619629,
                         -0.12698766589164734,
@@ -2811,21 +2811,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 62,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.4517822265625,
                     "op": "BO_Add",
                     "position": [
                         416.8382873535156,
                         -493.3427429199219,
                         439.91558837890625
                     ],
-                    "height": 781.4517822265625,
                     "transform": [
                         0.013457171618938446,
                         -0.3136022388935089,
@@ -2860,21 +2860,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 63,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.0032958984375,
                     "op": "BO_Add",
                     "position": [
                         -4.340990322196023e-14,
                         504.7015686035156,
                         597.3319702148438
                     ],
-                    "height": 782.0032958984375,
                     "transform": [
                         0.37351906299591064,
                         0.19197727739810944,
@@ -2909,21 +2909,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 64,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.4896850585938,
                     "op": "BO_Add",
                     "position": [
                         -74.4857177734375,
                         219.3343048095703,
                         745.3243408203125
                     ],
-                    "height": 780.4896850585938,
                     "transform": [
                         -0.09086962789297104,
                         0.40525269508361816,
@@ -2958,21 +2958,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 65,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.0355834960938,
                     "op": "BO_Add",
                     "position": [
                         617.801513671875,
                         -198.58511352539062,
                         434.62835693359375
                     ],
-                    "height": 781.0355834960938,
                     "transform": [
                         -0.29904821515083313,
                         -0.24175511300563812,
@@ -3007,21 +3007,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 66,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.4320068359375,
                     "op": "BO_Add",
                     "position": [
                         83.35155487060547,
                         764.5694580078125,
                         126.49271392822266
                     ],
-                    "height": 779.4320068359375,
                     "transform": [
                         0.13356643915176392,
                         0.5105815529823303,
@@ -3056,21 +3056,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 67,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.357177734375,
                     "op": "BO_Add",
                     "position": [
                         27.74608039855957,
                         -764.8722534179688,
                         152.17723083496094
                     ],
-                    "height": 780.357177734375,
                     "transform": [
                         -0.3792738914489746,
                         -0.4592137634754181,
@@ -3105,21 +3105,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 68,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.234619140625,
                     "op": "BO_Add",
                     "position": [
                         -646.2454833984375,
                         404.5082092285156,
                         165.8492889404297
                     ],
-                    "height": 780.234619140625,
                     "transform": [
                         0.22610773146152496,
                         0.2630248963832855,
@@ -3154,21 +3154,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 69,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.285400390625,
                     "op": "BO_Add",
                     "position": [
                         157.6610565185547,
                         421.55023193359375,
                         639.8507080078125
                     ],
-                    "height": 782.285400390625,
                     "transform": [
                         0.2790834903717041,
                         -0.4759315848350525,
@@ -3203,21 +3203,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 70,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.8544311523438,
                     "op": "BO_Add",
                     "position": [
                         -644.7308349609375,
                         -431.272705078125,
                         70.28704833984375
                     ],
-                    "height": 778.8544311523438,
                     "transform": [
                         0.16944001615047455,
                         -0.32123297452926636,
@@ -3252,21 +3252,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 71,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.8816528320312,
                     "op": "BO_Add",
                     "position": [
                         145.98683166503906,
                         -266.373046875,
                         718.2957153320312
                     ],
-                    "height": 779.8816528320312,
                     "transform": [
                         0.11917935311794281,
                         0.6162344217300415,
@@ -3301,21 +3301,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 72,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.8675537109375,
                     "op": "BO_Add",
                     "position": [
                         728.9027709960938,
                         -73.41080474853516,
                         270.30657958984375
                     ],
-                    "height": 780.8675537109375,
                     "transform": [
                         -0.08406196534633636,
                         -0.1777361035346985,
@@ -3350,21 +3350,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 73,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.2090454101562,
                     "op": "BO_Add",
                     "position": [
                         -214.74090576171875,
                         -579.065673828125,
                         478.3897399902344
                     ],
-                    "height": 781.2090454101562,
                     "transform": [
                         -0.5099846720695496,
                         -0.30043715238571167,
@@ -3399,21 +3399,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 74,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.8878173828125,
                     "op": "BO_Add",
                     "position": [
                         -166.68746948242188,
                         -311.928466796875,
                         693.9613037109375
                     ],
-                    "height": 778.8878173828125,
                     "transform": [
                         0.09691104292869568,
                         -0.43198150396347046,
@@ -3448,21 +3448,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 75,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.4772338867188,
                     "op": "BO_Add",
                     "position": [
                         46.519500732421875,
                         387.5984191894531,
                         676.9862060546875
                     ],
-                    "height": 781.4772338867188,
                     "transform": [
                         0.22752784192562103,
                         -0.3561117649078369,
@@ -3497,21 +3497,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 76,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.7978515625,
                     "op": "BO_Add",
                     "position": [
                         165.80503845214844,
                         336.4937744140625,
                         687.0611572265625
                     ],
-                    "height": 782.7978515625,
                     "transform": [
                         -0.4406605660915375,
                         0.0250965915620327,
@@ -3546,21 +3546,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 77,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.0618896484375,
                     "op": "BO_Add",
                     "position": [
                         -598.4406127929688,
                         407.46063232421875,
                         293.0910949707031
                     ],
-                    "height": 781.0618896484375,
                     "transform": [
                         -0.2717125713825226,
                         -0.004847817122936249,
@@ -3595,21 +3595,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 78,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 783.1709594726562,
                     "op": "BO_Add",
                     "position": [
                         482.5273132324219,
                         -384.30670166015625,
                         482.5273132324219
                     ],
-                    "height": 783.1709594726562,
                     "transform": [
                         0.2770742177963257,
                         -0.12442614138126373,
@@ -3644,21 +3644,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 79,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 783.1709594726562,
                     "op": "BO_Add",
                     "position": [
                         482.5273132324219,
                         -384.30670166015625,
                         482.5273132324219
                     ],
-                    "height": 783.1709594726562,
                     "transform": [
                         0.20955945551395416,
                         -0.46557360887527466,
@@ -3693,21 +3693,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 80,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.5062255859375,
                     "op": "BO_Add",
                     "position": [
                         -517.3729858398438,
                         274.59478759765625,
                         517.3729858398438
                     ],
-                    "height": 781.5062255859375,
                     "transform": [
                         0.051859453320503235,
                         -0.3696146309375763,
@@ -3742,21 +3742,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 81,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.14697265625,
                     "op": "BO_Add",
                     "position": [
                         243.14971923828125,
                         540.9461059570312,
                         508.3759460449219
                     ],
-                    "height": 781.14697265625,
                     "transform": [
                         -0.0032906346023082733,
                         -0.48059314489364624,
@@ -3791,21 +3791,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 82,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.8267211914062,
                     "op": "BO_Add",
                     "position": [
                         -150.6182403564453,
                         478.5872802734375,
                         600.9041137695312
                     ],
-                    "height": 782.8267211914062,
                     "transform": [
                         -0.15075893700122833,
                         0.3132491409778595,
@@ -3840,21 +3840,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 83,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.04541015625,
                     "op": "BO_Add",
                     "position": [
                         646.2275390625,
                         301.1505126953125,
                         316.4951477050781
                     ],
-                    "height": 780.04541015625,
                     "transform": [
                         0.04334082081913948,
                         0.24941039085388184,
@@ -3889,21 +3889,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 84,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.5767822265625,
                     "op": "BO_Add",
                     "position": [
                         523.0220336914062,
                         464.1683044433594,
                         344.5804748535156
                     ],
-                    "height": 779.5767822265625,
                     "transform": [
                         -0.14922195672988892,
                         0.2219994068145752,
@@ -3938,21 +3938,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 85,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.1793823242188,
                     "op": "BO_Add",
                     "position": [
                         516.82861328125,
                         204.13766479492188,
                         550.4730834960938
                     ],
-                    "height": 782.1793823242188,
                     "transform": [
                         -0.37186098098754883,
                         -0.2348405420780182,
@@ -3987,21 +3987,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 86,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.7964477539062,
                     "op": "BO_Add",
                     "position": [
                         -24.695741653442383,
                         246.11692810058594,
                         740.5807495117188
                     ],
-                    "height": 780.7964477539062,
                     "transform": [
                         0.047278471291065216,
                         0.5714826583862305,
@@ -4036,21 +4036,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 87,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.2759399414062,
                     "op": "BO_Add",
                     "position": [
                         -422.2566833496094,
                         -640.9228515625,
                         134.86412048339844
                     ],
-                    "height": 779.2759399414062,
                     "transform": [
                         0.46824216842651367,
                         -0.08023083955049515,
@@ -4085,21 +4085,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 88,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.0084228515625,
                     "op": "BO_Add",
                     "position": [
                         566.4158325195312,
                         295.2992248535156,
                         451.1192932128906
                     ],
-                    "height": 782.0084228515625,
                     "transform": [
                         0.4453675150871277,
                         0.014750443398952484,
@@ -4134,21 +4134,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 89,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.27880859375,
                     "op": "BO_Add",
                     "position": [
                         689.0567016601562,
                         141.94764709472656,
                         337.4710693359375
                     ],
-                    "height": 780.27880859375,
                     "transform": [
                         0.21954599022865295,
                         -0.019593000411987305,
@@ -4183,21 +4183,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 90,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.1898803710938,
                     "op": "BO_Add",
                     "position": [
                         28.11097526550293,
                         774.9312744140625,
                         76.34210205078125
                     ],
-                    "height": 779.1898803710938,
                     "transform": [
                         0.29318058490753174,
                         0.4986528754234314,
@@ -4232,21 +4232,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 91,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.1552124023438,
                     "op": "BO_Add",
                     "position": [
                         -238.20091247558594,
                         716.7610473632812,
                         195.3358154296875
                     ],
-                    "height": 780.1552124023438,
                     "transform": [
                         -0.011514939367771149,
                         -0.4625695049762726,
@@ -4281,21 +4281,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 92,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.6398315429688,
                     "op": "BO_Add",
                     "position": [
                         -717.67626953125,
                         297.4997863769531,
                         52.10232925415039
                     ],
-                    "height": 778.6398315429688,
                     "transform": [
                         -0.11505773663520813,
                         0.15096066892147064,
@@ -4330,21 +4330,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 93,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.2050170898438,
                     "op": "BO_Add",
                     "position": [
                         746.0264892578125,
                         124.53434753417969,
                         191.4565887451172
                     ],
-                    "height": 780.2050170898438,
                     "transform": [
                         0.10653672367334366,
                         -0.08559994399547577,
@@ -4379,21 +4379,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 94,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.5220336914062,
                     "op": "BO_Add",
                     "position": [
                         -166.22885131835938,
                         757.8637084960938,
                         75.26742553710938
                     ],
-                    "height": 779.5220336914062,
                     "transform": [
                         -0.5889902710914612,
                         0.0016919896006584167,
@@ -4428,21 +4428,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 95,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.6898803710938,
                     "op": "BO_Add",
                     "position": [
                         -687.2271118164062,
                         288.920654296875,
                         228.3859100341797
                     ],
-                    "height": 779.6898803710938,
                     "transform": [
                         0.08818280696868896,
                         0.1571987271308899,
@@ -4477,21 +4477,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 96,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.9195556640625,
                     "op": "BO_Add",
                     "position": [
                         507.654541015625,
                         312.30865478515625,
                         507.654541015625
                     ],
-                    "height": 782.9195556640625,
                     "transform": [
                         0.32729122042655945,
                         0.3295499086380005,
@@ -4526,21 +4526,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 97,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.9195556640625,
                     "op": "BO_Add",
                     "position": [
                         507.654541015625,
                         312.30865478515625,
                         507.654541015625
                     ],
-                    "height": 782.9195556640625,
                     "transform": [
                         0.27518293261528015,
                         0.16725918650627136,
@@ -4575,21 +4575,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 98,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.5804443359375,
                     "op": "BO_Add",
                     "position": [
                         473.90087890625,
                         -44.82075500488281,
                         617.3773193359375
                     ],
-                    "height": 779.5804443359375,
                     "transform": [
                         0.12842011451721191,
                         -0.4380110502243042,
@@ -4624,21 +4624,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 99,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.8221435546875,
                     "op": "BO_Add",
                     "position": [
                         -136.87948608398438,
                         624.0552368164062,
                         448.8900451660156
                     ],
-                    "height": 780.8221435546875,
                     "transform": [
                         0.5404775142669678,
                         0.023880135267972946,
@@ -4673,21 +4673,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 100,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.0308837890625,
                     "op": "BO_Add",
                     "position": [
                         -209.6754913330078,
                         -485.56988525390625,
                         574.68896484375
                     ],
-                    "height": 781.0308837890625,
                     "transform": [
                         0.03457319736480713,
                         0.4323655664920807,
@@ -4722,21 +4722,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 101,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.4552612304688,
                     "op": "BO_Add",
                     "position": [
                         -323.4312744140625,
                         -407.4226379394531,
                         579.1300659179688
                     ],
-                    "height": 778.4552612304688,
                     "transform": [
                         -0.4460847079753876,
                         0.07188749313354492,
@@ -4771,21 +4771,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 102,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.9425048828125,
                     "op": "BO_Add",
                     "position": [
                         -293.1316833496094,
                         -715.1773681640625,
                         96.67839813232422
                     ],
-                    "height": 778.9425048828125,
                     "transform": [
                         -0.2900407016277313,
                         0.35733985900878906,
@@ -4820,21 +4820,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 103,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.2012329101562,
                     "op": "BO_Add",
                     "position": [
                         -417.20758056640625,
                         633.2591552734375,
                         179.09579467773438
                     ],
-                    "height": 779.2012329101562,
                     "transform": [
                         0.41929522156715393,
                         0.320429265499115,
@@ -4869,21 +4869,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 104,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.9339599609375,
                     "op": "BO_Add",
                     "position": [
                         561.701904296875,
                         -465.9495544433594,
                         275.0980529785156
                     ],
-                    "height": 779.9339599609375,
                     "transform": [
                         0.08613796532154083,
                         -0.26089221239089966,
@@ -4918,21 +4918,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 105,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.6671142578125,
                     "op": "BO_Add",
                     "position": [
                         -129.5946807861328,
                         -710.7392578125,
                         295.79736328125
                     ],
-                    "height": 780.6671142578125,
                     "transform": [
                         0.43394041061401367,
                         0.05239907652139664,
@@ -4967,21 +4967,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 106,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.2710571289062,
                     "op": "BO_Add",
                     "position": [
                         -518.9320678710938,
                         -579.866455078125,
                         41.56774139404297
                     ],
-                    "height": 779.2710571289062,
                     "transform": [
                         -0.008044302463531494,
                         0.36499953269958496,
@@ -5016,21 +5016,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 107,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.2197265625,
                     "op": "BO_Add",
                     "position": [
                         -215.7588653564453,
                         649.2315673828125,
                         379.22869873046875
                     ],
-                    "height": 782.2197265625,
                     "transform": [
                         -0.4299286901950836,
                         0.22243908047676086,
@@ -5065,21 +5065,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 108,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.5541381835938,
                     "op": "BO_Add",
                     "position": [
                         753.0299072265625,
                         -201.95037841796875,
                         54.6689567565918
                     ],
-                    "height": 781.5541381835938,
                     "transform": [
                         0.05680355057120323,
                         0.07977618277072906,
@@ -5114,21 +5114,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 109,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.15673828125,
                     "op": "BO_Add",
                     "position": [
                         225.92971801757812,
                         81.04009246826172,
                         743.3667602539062
                     ],
-                    "height": 781.15673828125,
                     "transform": [
                         -0.36987119913101196,
                         -0.24687893688678741,
@@ -5163,21 +5163,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 110,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.3040771484375,
                     "op": "BO_Add",
                     "position": [
                         -479.16790771484375,
                         -287.5279846191406,
                         541.7408447265625
                     ],
-                    "height": 778.3040771484375,
                     "transform": [
                         -0.35313084721565247,
                         -0.24941220879554749,
@@ -5212,21 +5212,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 111,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.771484375,
                     "op": "BO_Add",
                     "position": [
                         -476.1081848144531,
                         -597.7913208007812,
                         149.83804321289062
                     ],
-                    "height": 778.771484375,
                     "transform": [
                         -0.2687879800796509,
                         0.28513526916503906,
@@ -5261,21 +5261,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 112,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.1626586914062,
                     "op": "BO_Add",
                     "position": [
                         734.7145385742188,
                         249.86569213867188,
                         80.09685516357422
                     ],
-                    "height": 780.1626586914062,
                     "transform": [
                         -0.11681711673736572,
                         -0.0914342850446701,
@@ -5310,21 +5310,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 113,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.3601684570312,
                     "op": "BO_Add",
                     "position": [
                         20.84701156616211,
                         -520.8796997070312,
                         582.0426635742188
                     ],
-                    "height": 781.3601684570312,
                     "transform": [
                         0.018002362921833992,
                         -0.4711258113384247,
@@ -5359,21 +5359,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 114,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.2125854492188,
                     "op": "BO_Add",
                     "position": [
                         -165.045654296875,
                         -334.95263671875,
                         683.9144287109375
                     ],
-                    "height": 779.2125854492188,
                     "transform": [
                         0.042401544749736786,
                         0.3613068163394928,
@@ -5408,21 +5408,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 115,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.8956298828125,
                     "op": "BO_Add",
                     "position": [
                         -476.9181823730469,
                         355.7856140136719,
                         505.730712890625
                     ],
-                    "height": 780.8956298828125,
                     "transform": [
                         0.26068440079689026,
                         0.11966011673212051,
@@ -5457,21 +5457,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 116,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.529296875,
                     "op": "BO_Add",
                     "position": [
                         658.0180053710938,
                         356.1708679199219,
                         218.6788787841797
                     ],
-                    "height": 779.529296875,
                     "transform": [
                         -0.40627729892730713,
                         -0.5022603273391724,
@@ -5506,21 +5506,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 117,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.62939453125,
                     "op": "BO_Add",
                     "position": [
                         184.8855743408203,
                         -628.2633056640625,
                         422.9949035644531
                     ],
-                    "height": 779.62939453125,
                     "transform": [
                         -0.018293321132659912,
                         -1.2308498620986938,
@@ -5555,21 +5555,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 118,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.1655883789062,
                     "op": "BO_Add",
                     "position": [
                         124.5321273803711,
                         514.2730712890625,
                         574.660400390625
                     ],
-                    "height": 781.1655883789062,
                     "transform": [
                         1.2060468196868896,
                         0.3071826696395874,
@@ -5604,21 +5604,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 119,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.7431030273438,
                     "op": "BO_Add",
                     "position": [
                         316.0647888183594,
                         -177.4627227783203,
                         691.4982299804688
                     ],
-                    "height": 780.7431030273438,
                     "transform": [
                         -0.5898644328117371,
                         -0.5752874612808228,
@@ -5653,21 +5653,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 120,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.5470581054688,
                     "op": "BO_Add",
                     "position": [
                         -133.93795776367188,
                         -734.5591430664062,
                         224.00225830078125
                     ],
-                    "height": 779.5470581054688,
                     "transform": [
                         -0.23189634084701538,
                         0.8166064023971558,
@@ -5702,21 +5702,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 121,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.9453125,
                     "op": "BO_Add",
                     "position": [
                         420.2973937988281,
                         328.8016357421875,
                         574.2906494140625
                     ],
-                    "height": 783.9453125,
                     "transform": [
                         -0.34569674730300903,
                         -1.020171880722046,
@@ -5751,21 +5751,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 122,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.9427490234375,
                     "op": "BO_Add",
                     "position": [
                         308.0682678222656,
                         538.0774536132812,
                         476.4462585449219
                     ],
-                    "height": 781.9427490234375,
                     "transform": [
                         -0.4703401029109955,
                         -0.9373148679733276,
@@ -5800,21 +5800,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 123,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.2105102539062,
                     "op": "BO_Add",
                     "position": [
                         -727.8943481445312,
                         274.01495361328125,
                         26.404691696166992
                     ],
-                    "height": 778.2105102539062,
                     "transform": [
                         -0.24563108384609222,
                         -0.10573231428861618,
@@ -5849,21 +5849,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 124,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.625,
                     "op": "BO_Add",
                     "position": [
                         -592.6868896484375,
                         353.7649230957031,
                         364.6204833984375
                     ],
-                    "height": 780.625,
                     "transform": [
                         0.3574262857437134,
                         -0.1357172131538391,
@@ -5898,21 +5898,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 125,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.2156982421875,
                     "op": "BO_Add",
                     "position": [
                         0,
                         56.421512603759766,
                         777.1702880859375
                     ],
-                    "height": 779.2156982421875,
                     "transform": [
                         -0.823002278804779,
                         0.8665763139724731,
@@ -5947,21 +5947,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 126,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.281494140625,
                     "op": "BO_Add",
                     "position": [
                         -668.4176635742188,
                         -186.12306213378906,
                         354.761474609375
                     ],
-                    "height": 779.281494140625,
                     "transform": [
                         0.29523712396621704,
                         0.13905924558639526,
@@ -5996,21 +5996,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 127,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9280395507812,
                     "op": "BO_Add",
                     "position": [
                         637.58642578125,
                         322.89794921875,
                         312.2630920410156
                     ],
-                    "height": 779.9280395507812,
                     "transform": [
                         0.2623932957649231,
                         0.3648129999637604,
@@ -6045,21 +6045,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 128,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 783.2266845703125,
                     "op": "BO_Add",
                     "position": [
                         -305.1858215332031,
                         481.0275573730469,
                         537.5111083984375
                     ],
-                    "height": 783.2266845703125,
                     "transform": [
                         0.5418546795845032,
                         0.07596145570278168,
@@ -6094,21 +6094,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 129,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.5934448242188,
                     "op": "BO_Add",
                     "position": [
                         -441.2279968261719,
                         371.2050476074219,
                         527.648681640625
                     ],
-                    "height": 781.5934448242188,
                     "transform": [
                         -0.4230845868587494,
                         -0.4134747087955475,
@@ -6143,21 +6143,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 130,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.7239379882812,
                     "op": "BO_Add",
                     "position": [
                         333.6286315917969,
                         -370.431884765625,
                         602.13330078125
                     ],
-                    "height": 781.7239379882812,
                     "transform": [
                         -0.30348947644233704,
                         0.30200889706611633,
@@ -6192,21 +6192,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 131,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.7915649414062,
                     "op": "BO_Add",
                     "position": [
                         21.246002197265625,
                         504.3785705566406,
                         596.94970703125
                     ],
-                    "height": 781.7915649414062,
                     "transform": [
                         0.1710941046476364,
                         1.0122644901275635,
@@ -6241,21 +6241,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 132,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.3883666992188,
                     "op": "BO_Add",
                     "position": [
                         -5.20256038770428e-14,
                         662.70751953125,
                         412.0979919433594
                     ],
-                    "height": 780.3883666992188,
                     "transform": [
                         0.3227901756763458,
                         0.4324577748775482,
@@ -6290,21 +6290,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 134,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.4605102539062,
                     "op": "BO_Add",
                     "position": [
                         -709.6115112304688,
                         144.83143615722656,
                         290.8503723144531
                     ],
-                    "height": 780.4605102539062,
                     "transform": [
                         -0.011072974652051926,
                         -0.20397962629795074,
@@ -6339,21 +6339,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 135,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.54296875,
                     "op": "BO_Add",
                     "position": [
                         312.6336975097656,
                         -375.32305908203125,
                         610.0838623046875
                     ],
-                    "height": 781.54296875,
                     "transform": [
                         -0.8545766472816467,
                         -0.34099406003952026,
@@ -6388,21 +6388,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 136,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.342529296875,
                     "op": "BO_Add",
                     "position": [
                         755.895263671875,
                         100.34037780761719,
                         165.79708862304688
                     ],
-                    "height": 780.342529296875,
                     "transform": [
                         -0.12324872612953186,
                         0.03516663610935211,
@@ -6437,21 +6437,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 137,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.1998291015625,
                     "op": "BO_Add",
                     "position": [
                         741.7713012695312,
                         149.15823364257812,
                         190.36456298828125
                     ],
-                    "height": 780.1998291015625,
                     "transform": [
                         -0.3180338740348816,
                         0.0006449967622756958,
@@ -6486,21 +6486,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 138,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.263671875,
                     "op": "BO_Add",
                     "position": [
                         730.7501220703125,
                         -275.0899963378906,
                         26.508285522460938
                     ],
-                    "height": 781.263671875,
                     "transform": [
                         0.24687591195106506,
                         0.19547955691814423,
@@ -6535,21 +6535,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 139,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0346069335938,
                     "op": "BO_Add",
                     "position": [
                         -1.2973532025149087e-13,
                         -193.65219116210938,
                         754.581787109375
                     ],
-                    "height": 779.0346069335938,
                     "transform": [
                         0.8010045886039734,
                         -0.5642873644828796,
@@ -6584,21 +6584,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 140,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.33203125,
                     "op": "BO_Add",
                     "position": [
                         268.8428649902344,
                         724.9557495117188,
                         97.57633209228516
                     ],
-                    "height": 779.33203125,
                     "transform": [
                         0.054495736956596375,
                         -0.6944265961647034,
@@ -6633,21 +6633,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 141,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.2659912109375,
                     "op": "BO_Add",
                     "position": [
                         -718.4968872070312,
                         271.7615051269531,
                         131.00918579101562
                     ],
-                    "height": 779.2659912109375,
                     "transform": [
                         -0.22596056759357452,
                         -0.17734163999557495,
@@ -6682,21 +6682,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 142,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.6737670898438,
                     "op": "BO_Add",
                     "position": [
                         389.7444152832031,
                         -48.97864532470703,
                         674.6494750976562
                     ],
-                    "height": 780.6737670898438,
                     "transform": [
                         -0.4273093342781067,
                         -0.15018333494663239,
@@ -6731,21 +6731,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 143,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 783.1919555664062,
                     "op": "BO_Add",
                     "position": [
                         -157.84375,
                         422.038818359375,
                         640.5921630859375
                     ],
-                    "height": 783.1919555664062,
                     "transform": [
                         -0.3346342444419861,
                         0.3533227741718292,
@@ -6780,21 +6780,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 144,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.6300048828125,
                     "op": "BO_Add",
                     "position": [
                         444.7804260253906,
                         -181.4522247314453,
                         616.5964965820312
                     ],
-                    "height": 781.6300048828125,
                     "transform": [
                         -0.3713674545288086,
                         0.651423990726471,
@@ -6829,21 +6829,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 145,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 782.6756591796875,
                     "op": "BO_Add",
                     "position": [
                         -46.100006103515625,
                         -634.9981079101562,
                         455.22900390625
                     ],
-                    "height": 782.6756591796875,
                     "transform": [
                         -0.5700276494026184,
                         0.021621013060212135,
@@ -6878,21 +6878,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 146,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.2220458984375,
                     "op": "BO_Add",
                     "position": [
                         -217.4674835205078,
                         -530.5732421875,
                         530.5732421875
                     ],
-                    "height": 781.2220458984375,
                     "transform": [
                         -0.3169282078742981,
                         -0.2802344262599945,
@@ -6927,21 +6927,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 147,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2220458984375,
                     "op": "BO_Add",
                     "position": [
                         -217.4674835205078,
                         -530.5732421875,
                         530.5732421875
                     ],
-                    "height": 781.2220458984375,
                     "transform": [
                         -0.9525518417358398,
                         0.5967374444007874,
@@ -6976,21 +6976,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 148,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.42431640625,
                     "op": "BO_Add",
                     "position": [
                         -551.8366088867188,
                         182.3647918701172,
                         522.3442993164062
                     ],
-                    "height": 781.42431640625,
                     "transform": [
                         -0.5607271194458008,
                         0.5365666747093201,
@@ -7025,21 +7025,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 149,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.0393676757812,
                     "op": "BO_Add",
                     "position": [
                         -233.67861938476562,
                         -463.64447021484375,
                         582.1421508789062
                     ],
-                    "height": 780.0393676757812,
                     "transform": [
                         -0.2732781171798706,
                         -1.0828323364257812,
@@ -7074,21 +7074,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 150,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2960205078125,
                     "op": "BO_Add",
                     "position": [
                         -579.9738159179688,
                         423.4391784667969,
                         307.820068359375
                     ],
-                    "height": 781.2960205078125,
                     "transform": [
                         -0.15606734156608582,
                         0.7680714130401611,
@@ -7123,21 +7123,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 151,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.6434326171875,
                     "op": "BO_Add",
                     "position": [
                         -193.15716552734375,
                         -752.6529541015625,
                         49.89338302612305
                     ],
-                    "height": 778.6434326171875,
                     "transform": [
                         -0.6733232736587524,
                         0.7819778323173523,
@@ -7172,21 +7172,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 152,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7764892578125,
                     "op": "BO_Add",
                     "position": [
                         -508.2057189941406,
                         567.8806762695312,
                         165.1964569091797
                     ],
-                    "height": 779.7764892578125,
                     "transform": [
                         -0.6151232719421387,
                         0.02478557825088501,
@@ -7221,21 +7221,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 153,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.5834350585938,
                     "op": "BO_Add",
                     "position": [
                         -236.10983276367188,
                         -304.1702880859375,
                         676.7012939453125
                     ],
-                    "height": 778.5834350585938,
                     "transform": [
                         -0.3284343481063843,
                         -1.0559402704238892,
@@ -7270,21 +7270,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 154,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.7091674804688,
                     "op": "BO_Add",
                     "position": [
                         -528.7244262695312,
                         -558.576904296875,
                         121.77978515625
                     ],
-                    "height": 778.7091674804688,
                     "transform": [
                         -0.22908945381641388,
                         -0.5042803287506104,
@@ -7319,21 +7319,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 155,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9244995117188,
                     "op": "BO_Add",
                     "position": [
                         -75.87223052978516,
                         695.9628295898438,
                         343.74603271484375
                     ],
-                    "height": 779.9244995117188,
                     "transform": [
                         0.12141638994216919,
                         -1.1298960447311401,
@@ -7368,21 +7368,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 156,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.9112548828125,
                     "op": "BO_Add",
                     "position": [
                         240.66473388671875,
                         587.1694946289062,
                         455.1206970214844
                     ],
-                    "height": 780.9112548828125,
                     "transform": [
                         0.9129477739334106,
                         -0.5541473627090454,
@@ -7417,21 +7417,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 157,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.6622924804688,
                     "op": "BO_Add",
                     "position": [
                         -746.9888305664062,
                         -4.8627494039906946e-14,
                         219.82415771484375
                     ],
-                    "height": 778.6622924804688,
                     "transform": [
                         -0.07386146485805511,
                         -0.2683454751968384,
@@ -7466,21 +7466,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 158,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.3953857421875,
                     "op": "BO_Add",
                     "position": [
                         -651.6769409179688,
                         0,
                         429.3416748046875
                     ],
-                    "height": 780.3953857421875,
                     "transform": [
                         -0.34173285961151123,
                         0.6227766871452332,
@@ -7515,21 +7515,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 159,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 782.6798706054688,
                     "op": "BO_Add",
                     "position": [
                         148.7076416015625,
                         216.93348693847656,
                         737.166015625
                     ],
-                    "height": 782.6798706054688,
                     "transform": [
                         -1.118577003479004,
                         0.04534990340471268,
@@ -7564,21 +7564,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 160,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.1990356445312,
                     "op": "BO_Add",
                     "position": [
                         -4.6049613639442474e-14,
                         586.584716796875,
                         514.4208984375
                     ],
-                    "height": 780.1990356445312,
                     "transform": [
                         -0.606711745262146,
                         0.5067731738090515,
@@ -7613,21 +7613,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 161,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.82177734375,
                     "op": "BO_Add",
                     "position": [
                         -563.8745727539062,
                         -61.08688735961914,
                         533.7389526367188
                     ],
-                    "height": 778.82177734375,
                     "transform": [
                         -0.4232558012008667,
                         0.5748399496078491,
@@ -7662,21 +7662,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 162,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.6434326171875,
                     "op": "BO_Add",
                     "position": [
                         411.61541748046875,
                         -48.028831481933594,
                         661.56640625
                     ],
-                    "height": 780.6434326171875,
                     "transform": [
                         -0.23454146087169647,
                         0.18446899950504303,
@@ -7711,21 +7711,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 163,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.5681762695312,
                     "op": "BO_Add",
                     "position": [
                         -716.2216796875,
                         -195.18882751464844,
                         238.0216827392578
                     ],
-                    "height": 779.5681762695312,
                     "transform": [
                         0.22260193526744843,
                         -0.0899236798286438,
@@ -7760,21 +7760,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 164,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.55810546875,
                     "op": "BO_Add",
                     "position": [
                         764.276123046875,
                         75.714111328125,
                         139.35646057128906
                     ],
-                    "height": 780.55810546875,
                     "transform": [
                         0.055416807532310486,
                         0.14113490283489227,
@@ -7809,21 +7809,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 165,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0027465820312,
                     "op": "BO_Add",
                     "position": [
                         -615.54296875,
                         -472.70428466796875,
                         67.10504150390625
                     ],
-                    "height": 779.0027465820312,
                     "transform": [
                         -0.21689699590206146,
                         -0.5415693521499634,
@@ -7858,21 +7858,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 166,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.276611328125,
                     "op": "BO_Add",
                     "position": [
                         50.77573013305664,
                         -84.27506256103516,
                         773.0404663085938
                     ],
-                    "height": 779.276611328125,
                     "transform": [
                         0.9289863705635071,
                         0.6970950961112976,
@@ -7907,21 +7907,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 167,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 778.3460083007812,
                     "op": "BO_Add",
                     "position": [
                         -343.4745178222656,
                         -401.8849792480469,
                         571.2584838867188
                     ],
-                    "height": 778.3460083007812,
                     "transform": [
                         0.39002057909965515,
                         0.099741131067276,
@@ -7956,21 +7956,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 168,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.9364624023438,
                     "op": "BO_Add",
                     "position": [
                         248.1404571533203,
                         -387.9908142089844,
                         630.6751098632812
                     ],
-                    "height": 780.9364624023438,
                     "transform": [
                         -0.7268663048744202,
                         -0.5489339828491211,
@@ -8005,21 +8005,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 169,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.3145141601562,
                     "op": "BO_Add",
                     "position": [
                         108.49497985839844,
                         745.25537109375,
                         200.3855438232422
                     ],
-                    "height": 779.3145141601562,
                     "transform": [
                         -0.2682514190673828,
                         0.3268094062805176,
@@ -8054,21 +8054,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 170,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0034790039062,
                     "op": "BO_Add",
                     "position": [
                         -267.5330505371094,
                         -721.4237060546875,
                         121.73876953125
                     ],
-                    "height": 779.0034790039062,
                     "transform": [
                         1.1339491605758667,
                         0.3776407539844513,
@@ -8103,21 +8103,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 171,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7801513671875,
                     "op": "BO_Add",
                     "position": [
                         -658.2297973632812,
                         356.2854919433594,
                         218.749267578125
                     ],
-                    "height": 779.7801513671875,
                     "transform": [
                         -0.5532252192497253,
                         0.3522365391254425,
@@ -8152,21 +8152,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 172,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.14794921875,
                     "op": "BO_Add",
                     "position": [
                         460.2003173828125,
                         -435.6054382324219,
                         460.2003173828125
                     ],
-                    "height": 783.14794921875,
                     "transform": [
                         -0.341616690158844,
                         -0.6371632814407349,
@@ -8201,21 +8201,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 173,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.14794921875,
                     "op": "BO_Add",
                     "position": [
                         460.2003173828125,
                         -435.6054382324219,
                         460.2003173828125
                     ],
-                    "height": 783.14794921875,
                     "transform": [
                         0.19823366403579712,
                         -0.7893735766410828,
@@ -8250,21 +8250,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 174,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.4281005859375,
                     "op": "BO_Add",
                     "position": [
                         155.46484375,
                         605.7816772460938,
                         466.8267517089844
                     ],
-                    "height": 780.4281005859375,
                     "transform": [
                         -0.8977929353713989,
                         0.6641122698783875,
@@ -8299,21 +8299,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 175,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.0122680664062,
                     "op": "BO_Add",
                     "position": [
                         56.40678787231445,
                         776.9674072265625,
                         0
                     ],
-                    "height": 779.0122680664062,
                     "transform": [
                         0.28677093982696533,
                         0.40111956000328064,
@@ -8348,21 +8348,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 778.68994140625,
                     "op": "BO_Add",
                     "position": [
                         426.1114807128906,
                         605.6951904296875,
                         240.66616821289062
                     ],
-                    "height": 778.68994140625,
                     "transform": [
                         0.17312192916870117,
                         0.3889978528022766,
@@ -8397,21 +8397,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 176,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.7279663085938,
                     "op": "BO_Add",
                     "position": [
                         568.023193359375,
                         -442.7156066894531,
                         301.4772644042969
                     ],
-                    "height": 780.7279663085938,
                     "transform": [
                         0.8487587571144104,
                         0.08059528470039368,
@@ -8446,21 +8446,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 177,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 782.7041015625,
                     "op": "BO_Add",
                     "position": [
                         -189.02740478515625,
                         334.07415771484375,
                         682.1207885742188
                     ],
-                    "height": 782.7041015625,
                     "transform": [
                         0.4649295210838318,
                         -0.7370920181274414,
@@ -8495,21 +8495,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 178,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.68408203125,
                     "op": "BO_Add",
                     "position": [
                         -156.85279846191406,
                         715.116943359375,
                         271.05859375
                     ],
-                    "height": 780.68408203125,
                     "transform": [
                         0.03652118891477585,
                         -1.1620230674743652,
@@ -8544,21 +8544,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 179,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9364624023438,
                     "op": "BO_Add",
                     "position": [
                         524.3992309570312,
                         -143.51173400878906,
                         559.2053833007812
                     ],
-                    "height": 779.9364624023438,
                     "transform": [
                         0.5914698839187622,
                         -0.35764867067337036,
@@ -8593,21 +8593,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 180,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.1068115234375,
                     "op": "BO_Add",
                     "position": [
                         176.20733642578125,
                         109.62744140625,
                         753.0343017578125
                     ],
-                    "height": 781.1068115234375,
                     "transform": [
                         -0.04219285026192665,
                         0.5650054812431335,
@@ -8642,21 +8642,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 181,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.4727172851562,
                     "op": "BO_Add",
                     "position": [
                         73.46770477294922,
                         270.5160827636719,
                         729.4677734375
                     ],
-                    "height": 781.4727172851562,
                     "transform": [
                         -0.4254426658153534,
                         0.9402397274971008,
@@ -8691,21 +8691,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 182,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.48779296875,
                     "op": "BO_Add",
                     "position": [
                         75.99211883544922,
                         111.90467834472656,
                         768.6766357421875
                     ],
-                    "height": 780.48779296875,
                     "transform": [
                         0.6089944839477539,
                         0.4726157486438751,
@@ -8740,21 +8740,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 183,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.0670166015625,
                     "op": "BO_Add",
                     "position": [
                         276.4327087402344,
                         -342.4718933105469,
                         645.2625122070312
                     ],
-                    "height": 781.0670166015625,
                     "transform": [
                         0.15704326331615448,
                         -0.827788233757019,
@@ -8789,21 +8789,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 184,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.3971557617188,
                     "op": "BO_Add",
                     "position": [
                         24.952861785888672,
                         687.8720092773438,
                         367.7352600097656
                     ],
-                    "height": 780.3971557617188,
                     "transform": [
                         -0.5181614756584167,
                         -1.1320092678070068,
@@ -8838,21 +8838,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 185,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.8864135742188,
                     "op": "BO_Add",
                     "position": [
                         -657.0897827148438,
                         -114.21427154541016,
                         404.2410583496094
                     ],
-                    "height": 779.8864135742188,
                     "transform": [
                         0.5467119812965393,
                         -0.29199522733688354,
@@ -8887,21 +8887,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 186,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2705078125,
                     "op": "BO_Add",
                     "position": [
                         -480.9941711425781,
                         288.62384033203125,
                         543.8056030273438
                     ],
-                    "height": 781.2705078125,
                     "transform": [
                         0.6272368431091309,
                         -0.7582573294639587,
@@ -8936,21 +8936,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 187,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.066650390625,
                     "op": "BO_Add",
                     "position": [
                         324.256103515625,
                         475.32928466796875,
                         531.1436767578125
                     ],
-                    "height": 783.066650390625,
                     "transform": [
                         -0.3870530128479004,
                         -1.0952738523483276,
@@ -8985,21 +8985,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 188,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.4879150390625,
                     "op": "BO_Add",
                     "position": [
                         696.9379272460938,
                         -241.25303649902344,
                         258.4527587890625
                     ],
-                    "height": 781.4879150390625,
                     "transform": [
                         0.3888908922672272,
                         0.1650174856185913,
@@ -9034,21 +9034,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 189,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7203979492188,
                     "op": "BO_Add",
                     "position": [
                         4.3283183704919195e-14,
                         -319.66796875,
                         711.1796875
                     ],
-                    "height": 779.7203979492188,
                     "transform": [
                         0.6339004635810852,
                         0.5549692511558533,
@@ -9083,21 +9083,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 190,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.8904418945312,
                     "op": "BO_Add",
                     "position": [
                         106.00424194335938,
                         -581.3616943359375,
                         510.462158203125
                     ],
-                    "height": 780.8904418945312,
                     "transform": [
                         0.2950339913368225,
                         0.1906891167163849,
@@ -9132,21 +9132,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 191,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.1427001953125,
                     "op": "BO_Add",
                     "position": [
                         -583.8038940429688,
                         279.2425231933594,
                         437.4705505371094
                     ],
-                    "height": 781.1427001953125,
                     "transform": [
                         -0.2028617560863495,
                         -0.41999107599258423,
@@ -9181,21 +9181,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 192,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.7149658203125,
                     "op": "BO_Add",
                     "position": [
                         -535.1746826171875,
                         260.8646545410156,
                         506.5729064941406
                     ],
-                    "height": 781.7149658203125,
                     "transform": [
                         0.49547597765922546,
                         -0.6507179141044617,
@@ -9230,21 +9230,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 193,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.5725708007812,
                     "op": "BO_Add",
                     "position": [
                         26.144800186157227,
                         -720.7301025390625,
                         298.5936279296875
                     ],
-                    "height": 780.5725708007812,
                     "transform": [
                         0.13873915374279022,
                         -0.3904200792312622,
@@ -9279,21 +9279,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 194,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.387939453125,
                     "op": "BO_Add",
                     "position": [
                         -105.31362915039062,
                         -723.4025268554688,
                         273.1357727050781
                     ],
-                    "height": 780.387939453125,
                     "transform": [
                         -0.6443964242935181,
                         0.4371630549430847,
@@ -9328,21 +9328,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 195,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.494140625,
                     "op": "BO_Add",
                     "position": [
                         339.8734130859375,
                         -421.99481201171875,
                         563.1514282226562
                     ],
-                    "height": 781.494140625,
                     "transform": [
                         0.5400912761688232,
                         0.42012637853622437,
@@ -9377,21 +9377,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 196,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.0609741210938,
                     "op": "BO_Add",
                     "position": [
                         -320.3882141113281,
                         76.96092987060547,
                         705.9492797851562
                     ],
-                    "height": 779.0609741210938,
                     "transform": [
                         -0.3325943648815155,
                         -0.07187137007713318,
@@ -9426,21 +9426,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.0443115234375,
                     "op": "BO_Add",
                     "position": [
                         454.3058776855469,
                         570.4169311523438,
                         274.11798095703125
                     ],
-                    "height": 779.0443115234375,
                     "transform": [
                         0.4363510310649872,
                         -0.15775081515312195,
@@ -9475,21 +9475,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.6530151367188,
                     "op": "BO_Add",
                     "position": [
                         489.7503662109375,
                         -319.88299560546875,
                         519.9666137695312
                     ],
-                    "height": 782.6530151367188,
                     "transform": [
                         0.32049182057380676,
                         0.1408291608095169,
@@ -9524,21 +9524,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.1409912109375,
                     "op": "BO_Add",
                     "position": [
                         -110.39938354492188,
                         758.3367919921875,
                         151.3887176513672
                     ],
-                    "height": 781.1409912109375,
                     "transform": [
                         -0.35326433181762695,
                         0.3755887448787689,
@@ -9573,21 +9573,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.6054077148438,
                     "op": "BO_Add",
                     "position": [
                         -4.8555313280273724e-14,
                         618.5025634765625,
                         474.59375
                     ],
-                    "height": 779.6054077148438,
                     "transform": [
                         -0.383787602186203,
                         -0.26874881982803345,
@@ -9622,21 +9622,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.3507080078125,
                     "op": "BO_Add",
                     "position": [
                         477.30419921875,
                         308.6229553222656,
                         539.0463256835938
                     ],
-                    "height": 783.3507080078125,
                     "transform": [
                         0.2345244288444519,
                         0.3431742787361145,
@@ -9671,21 +9671,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.1097412109375,
                     "op": "BO_Add",
                     "position": [
                         397.75665283203125,
                         -234.1470184326172,
                         631.3956298828125
                     ],
-                    "height": 782.1097412109375,
                     "transform": [
                         0.5509855151176453,
                         0.018496360629796982,
@@ -9720,21 +9720,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.1245727539062,
                     "op": "BO_Add",
                     "position": [
                         -493.0556640625,
                         415.1575927734375,
                         441.24365234375
                     ],
-                    "height": 781.1245727539062,
                     "transform": [
                         -0.45211663842201233,
                         -0.02743636816740036,
@@ -9769,21 +9769,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.9930419921875,
                     "op": "BO_Add",
                     "position": [
                         101.76715087890625,
                         28.034292221069336,
                         772.8173828125
                     ],
-                    "height": 779.9930419921875,
                     "transform": [
                         0.2085759937763214,
                         0.3222254514694214,
@@ -9818,21 +9818,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 10,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.3117065429688,
                     "op": "BO_Add",
                     "position": [
                         -713.3003540039062,
                         120.88455200195312,
                         292.3623962402344
                     ],
-                    "height": 780.3117065429688,
                     "transform": [
                         -0.19945979118347168,
                         -0.030316714197397232,
@@ -9867,21 +9867,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 11,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.974853515625,
                     "op": "BO_Add",
                     "position": [
                         99.86626434326172,
                         -547.6990356445312,
                         547.6990356445312
                     ],
-                    "height": 780.974853515625,
                     "transform": [
                         -0.15682274103164673,
                         -0.38210347294807434,
@@ -9916,21 +9916,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 12,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.5098876953125,
                     "op": "BO_Add",
                     "position": [
                         -621.58544921875,
                         -65.682861328125,
                         465.78204345703125
                     ],
-                    "height": 779.5098876953125,
                     "transform": [
                         -0.3736341893672943,
                         -0.02401750721037388,
@@ -9965,21 +9965,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 13,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.8914794921875,
                     "op": "BO_Add",
                     "position": [
                         27.729524612426758,
                         764.4158325195312,
                         152.08642578125
                     ],
-                    "height": 779.8914794921875,
                     "transform": [
                         0.25735628604888916,
                         -0.28084373474121094,
@@ -10014,21 +10014,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 14,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.9443969726562,
                     "op": "BO_Add",
                     "position": [
                         -609.9844360351562,
                         174.42990112304688,
                         457.0888366699219
                     ],
-                    "height": 781.9443969726562,
                     "transform": [
                         0.1260073184967041,
                         -0.1979016363620758,
@@ -10063,21 +10063,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 15,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.6123657226562,
                     "op": "BO_Add",
                     "position": [
                         -229.9209442138672,
                         -481.4548645019531,
                         569.8186645507812
                     ],
-                    "height": 780.6123657226562,
                     "transform": [
                         -0.14987698197364807,
                         0.5962733030319214,
@@ -10112,21 +10112,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.2161865234375,
                     "op": "BO_Add",
                     "position": [
                         -576.14404296875,
                         506.453125,
                         147.85879516601562
                     ],
-                    "height": 781.2161865234375,
                     "transform": [
                         -0.3328099846839905,
                         0.1499015986919403,
@@ -10161,21 +10161,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.8812255859375,
                     "op": "BO_Add",
                     "position": [
                         -4.329210465591968e-14,
                         -387.493896484375,
                         676.8036499023438
                     ],
-                    "height": 779.8812255859375,
                     "transform": [
                         -0.5257315635681152,
                         0.2737959325313568,
@@ -10210,21 +10210,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 18,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.08837890625,
                     "op": "BO_Add",
                     "position": [
                         50.425113677978516,
                         -139.46009826660156,
                         764.8444213867188
                     ],
-                    "height": 779.08837890625,
                     "transform": [
                         0.44135457277297974,
                         0.0878845751285553,
@@ -10259,21 +10259,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 19,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.547119140625,
                     "op": "BO_Add",
                     "position": [
                         -439.50823974609375,
                         -369.75823974609375,
                         525.592041015625
                     ],
-                    "height": 778.547119140625,
                     "transform": [
                         -0.2603501081466675,
                         -0.19604894518852234,
@@ -10308,21 +10308,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.575439453125,
                     "op": "BO_Add",
                     "position": [
                         -4.327513350378849e-14,
                         84.48690795898438,
                         774.9837646484375
                     ],
-                    "height": 779.575439453125,
                     "transform": [
                         0.313436359167099,
                         0.30725786089897156,
@@ -10357,21 +10357,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.9900512695312,
                     "op": "BO_Add",
                     "position": [
                         123.40331268310547,
                         562.6153564453125,
                         527.4287109375
                     ],
-                    "height": 780.9900512695312,
                     "transform": [
                         0.41388750076293945,
                         -0.012612538412213326,
@@ -10406,21 +10406,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.975830078125,
                     "op": "BO_Add",
                     "position": [
                         -292.73004150390625,
                         179.71322631835938,
                         700.2674560546875
                     ],
-                    "height": 779.975830078125,
                     "transform": [
                         0.4716133177280426,
                         -0.12545493245124817,
@@ -10455,21 +10455,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 23,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.3018798828125,
                     "op": "BO_Add",
                     "position": [
                         649.7400512695312,
                         -406.0039978027344,
                         142.51312255859375
                     ],
-                    "height": 779.3018798828125,
                     "transform": [
                         0.08931070566177368,
                         0.2661508321762085,
@@ -10504,21 +10504,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 24,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.3165893554688,
                     "op": "BO_Add",
                     "position": [
                         -582.2463989257812,
                         -511.0172424316406,
                         84.76397705078125
                     ],
-                    "height": 779.3165893554688,
                     "transform": [
                         -0.2643105089664459,
                         0.04822513461112976,
@@ -10553,21 +10553,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 26,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.8594360351562,
                     "op": "BO_Add",
                     "position": [
                         322.1395263671875,
                         25.78626823425293,
                         710.8464965820312
                     ],
-                    "height": 780.8594360351562,
                     "transform": [
                         -0.16561156511306763,
                         -0.33174386620521545,
@@ -10602,21 +10602,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 27,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.5401611328125,
                     "op": "BO_Add",
                     "position": [
                         529.88623046875,
                         469.72003173828125,
                         325.98553466796875
                     ],
-                    "height": 779.5401611328125,
                     "transform": [
                         0.038847848773002625,
                         -0.3970326781272888,
@@ -10651,21 +10651,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 29,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.7359008789062,
                     "op": "BO_Add",
                     "position": [
                         213.19808959960938,
                         -467.91058349609375,
                         587.4986572265625
                     ],
-                    "height": 780.7359008789062,
                     "transform": [
                         0.5489375591278076,
                         -0.10357643663883209,
@@ -10700,21 +10700,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 30,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.2332153320312,
                     "op": "BO_Add",
                     "position": [
                         -673.027587890625,
                         -163.21926879882812,
                         357.20819091796875
                     ],
-                    "height": 779.2332153320312,
                     "transform": [
                         0.260903000831604,
                         0.08633014559745789,
@@ -10749,21 +10749,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 31,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.2560424804688,
                     "op": "BO_Add",
                     "position": [
                         -650.4656372070312,
                         -45.21366882324219,
                         428.54364013671875
                     ],
-                    "height": 780.2560424804688,
                     "transform": [
                         0.2462778091430664,
                         0.04275641590356827,
@@ -10798,21 +10798,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 32,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.1975708007812,
                     "op": "BO_Add",
                     "position": [
                         581.1765747070312,
                         20.815990447998047,
                         520.1045532226562
                     ],
-                    "height": 780.1975708007812,
                     "transform": [
                         -0.3331032991409302,
                         -0.22579599916934967,
@@ -10847,21 +10847,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 33,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.602783203125,
                     "op": "BO_Add",
                     "position": [
                         176.60140991210938,
                         82.40481567382812,
                         755.885009765625
                     ],
-                    "height": 780.602783203125,
                     "transform": [
                         -0.5659123063087463,
                         0.1314055472612381,
@@ -10896,21 +10896,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 34,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.53857421875,
                     "op": "BO_Add",
                     "position": [
                         -112.74270629882812,
                         -424.91717529296875,
                         644.961181640625
                     ],
-                    "height": 780.53857421875,
                     "transform": [
                         -0.32921454310417175,
                         -0.24522404372692108,
@@ -10945,21 +10945,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 35,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.455078125,
                     "op": "BO_Add",
                     "position": [
                         68.95563507080078,
                         -632.5181274414062,
                         453.6935729980469
                     ],
-                    "height": 781.455078125,
                     "transform": [
                         -0.5743387937545776,
                         0.10104822367429733,
@@ -10994,21 +10994,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 36,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.9176025390625,
                     "op": "BO_Add",
                     "position": [
                         584.705810546875,
                         -350.264404296875,
                         385.2193603515625
                     ],
-                    "height": 782.9176025390625,
                     "transform": [
                         0.16899420320987701,
                         0.35116058588027954,
@@ -11043,21 +11043,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 37,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.3994140625,
                     "op": "BO_Add",
                     "position": [
                         -343.30364990234375,
                         469.5901794433594,
                         524.730712890625
                     ],
-                    "height": 783.3994140625,
                     "transform": [
                         0.2754339873790741,
                         0.24852079153060913,
@@ -11092,21 +11092,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 39,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.1068115234375,
                     "op": "BO_Add",
                     "position": [
                         -192.72482299804688,
                         654.902099609375,
                         381.6431884765625
                     ],
-                    "height": 782.1068115234375,
                     "transform": [
                         -0.27850550413131714,
                         0.3791904151439667,
@@ -11141,21 +11141,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 41,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.7833251953125,
                     "op": "BO_Add",
                     "position": [
                         98.66053009033203,
                         244.58013916015625,
                         735.9564208984375
                     ],
-                    "height": 781.7833251953125,
                     "transform": [
                         -0.0012520002201199532,
                         -0.5978174209594727,
@@ -11190,21 +11190,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 42,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.5805053710938,
                     "op": "BO_Add",
                     "position": [
                         -688.2333984375,
                         47.03472137451172,
                         365.27862548828125
                     ],
-                    "height": 780.5805053710938,
                     "transform": [
                         0.2550051212310791,
                         -0.06673696637153625,
@@ -11239,21 +11239,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 43,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 783.476806640625,
                     "op": "BO_Add",
                     "position": [
                         -184.9034881591797,
                         378.2840576171875,
                         660.7175903320312
                     ],
-                    "height": 783.476806640625,
                     "transform": [
                         0.040645960718393326,
                         -0.5335501432418823,
@@ -11288,21 +11288,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 44,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.9080200195312,
                     "op": "BO_Add",
                     "position": [
                         -5.805144369765494e-14,
                         -739.46533203125,
                         251.01463317871094
                     ],
-                    "height": 780.9080200195312,
                     "transform": [
                         -0.04163418337702751,
                         0.49139511585235596,
@@ -11337,21 +11337,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 45,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.9425659179688,
                     "op": "BO_Add",
                     "position": [
                         -467.4351806640625,
                         586.9017333984375,
                         212.98147583007812
                     ],
-                    "height": 779.9425659179688,
                     "transform": [
                         0.09119243174791336,
                         -0.29580122232437134,
@@ -11386,21 +11386,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 46,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 779.1614379882812,
                     "op": "BO_Add",
                     "position": [
                         -253.66775512695312,
                         -345.37774658203125,
                         650.737548828125
                     ],
-                    "height": 779.1614379882812,
                     "transform": [
                         0.35240063071250916,
                         -0.0031531453132629395,
@@ -11435,21 +11435,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 47,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.5761108398438,
                     "op": "BO_Add",
                     "position": [
                         -4.338618629943711e-14,
                         468.6834411621094,
                         625.4574584960938
                     ],
-                    "height": 781.5761108398438,
                     "transform": [
                         -0.15368929505348206,
                         0.49025800824165344,
@@ -11484,21 +11484,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 48,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.35107421875,
                     "op": "BO_Add",
                     "position": [
                         -107.8492660522461,
                         482.7499084472656,
                         606.130615234375
                     ],
-                    "height": 782.35107421875,
                     "transform": [
                         0.45116251707077026,
                         0.32406386733055115,
@@ -11533,21 +11533,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 49,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.6337280273438,
                     "op": "BO_Add",
                     "position": [
                         624.7033081054688,
                         -6.500080692879023e-14,
                         468.11834716796875
                     ],
-                    "height": 780.6337280273438,
                     "transform": [
                         0.10061382502317429,
                         -0.3131901025772095,
@@ -11582,21 +11582,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 50,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.9678344726562,
                     "op": "BO_Add",
                     "position": [
                         -268.7172546386719,
                         -724.616943359375,
                         97.53073120117188
                     ],
-                    "height": 778.9678344726562,
                     "transform": [
                         0.4062836766242981,
                         -0.40348032116889954,
@@ -11631,21 +11631,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 51,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.4111328125,
                     "op": "BO_Add",
                     "position": [
                         572.1597900390625,
                         145.1086883544922,
                         512.0352172851562
                     ],
-                    "height": 781.4111328125,
                     "transform": [
                         -0.1650567203760147,
                         -0.20956867933273315,
@@ -11680,21 +11680,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 52,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.3173217773438,
                     "op": "BO_Add",
                     "position": [
                         -711.7239990234375,
                         1.0829078214388051e-14,
                         319.91259765625
                     ],
-                    "height": 780.3173217773438,
                     "transform": [
                         -0.14571143686771393,
                         -0.00739959767088294,
@@ -11729,21 +11729,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 53,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 780.8101806640625,
                     "op": "BO_Add",
                     "position": [
                         340.5372009277344,
                         -150.53692626953125,
                         686.32177734375
                     ],
-                    "height": 780.8101806640625,
                     "transform": [
                         0.3426175117492676,
                         -0.43338504433631897,
@@ -11778,21 +11778,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 54,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 782.725830078125,
                     "op": "BO_Add",
                     "position": [
                         -280.42138671875,
                         502.35528564453125,
                         530.7189331054688
                     ],
-                    "height": 782.725830078125,
                     "transform": [
                         0.11414379626512527,
                         0.4556067883968353,
@@ -11827,21 +11827,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 55,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 781.5352783203125,
                     "op": "BO_Add",
                     "position": [
                         -262.2510986328125,
                         279.2137451171875,
                         681.2205810546875
                     ],
-                    "height": 781.5352783203125,
                     "transform": [
                         0.48146897554397583,
                         -0.3508702516555786,
@@ -11876,21 +11876,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 56,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_03.json",
+                    "height": 778.701904296875,
                     "op": "BO_Add",
                     "position": [
                         -25.43579864501953,
                         -56.35423278808594,
                         776.2434692382812
                     ],
-                    "height": 778.701904296875,
                     "transform": [
                         0.3672310709953308,
                         0.5132172107696533,
@@ -11925,21 +11925,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 57,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.6238403320312,
                     "op": "BO_Add",
                     "position": [
                         -184.15945434570312,
                         717.5926513671875,
                         246.00733947753906
                     ],
-                    "height": 780.6238403320312,
                     "transform": [
                         -0.04702240601181984,
                         0.4648573398590088,
@@ -11974,21 +11974,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 58,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.4517822265625,
                     "op": "BO_Add",
                     "position": [
                         318.38238525390625,
                         153.13145446777344,
                         698.1505737304688
                     ],
-                    "height": 782.4517822265625,
                     "transform": [
                         -0.5134016871452332,
                         0.25354447960853577,
@@ -12023,21 +12023,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 59,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.6425170898438,
                     "op": "BO_Add",
                     "position": [
                         -512.6119995117188,
                         -572.8043212890625,
                         124.12989807128906
                     ],
-                    "height": 778.6425170898438,
                     "transform": [
                         0.2565056085586548,
                         -0.22778388857841492,
@@ -12072,21 +12072,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 60,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.192138671875,
                     "op": "BO_Add",
                     "position": [
                         -540.8018188476562,
                         159.14735412597656,
                         540.8018188476562
                     ],
-                    "height": 781.192138671875,
                     "transform": [
                         -0.3394608497619629,
                         -0.12698766589164734,
@@ -12121,21 +12121,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 62,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.4517822265625,
                     "op": "BO_Add",
                     "position": [
                         416.8382873535156,
                         -493.3427429199219,
                         439.91558837890625
                     ],
-                    "height": 781.4517822265625,
                     "transform": [
                         0.013457171618938446,
                         -0.3136022388935089,
@@ -12170,21 +12170,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 63,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.0032958984375,
                     "op": "BO_Add",
                     "position": [
                         -4.340990322196023e-14,
                         504.7015686035156,
                         597.3319702148438
                     ],
-                    "height": 782.0032958984375,
                     "transform": [
                         0.37351906299591064,
                         0.19197727739810944,
@@ -12219,21 +12219,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 64,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.4896850585938,
                     "op": "BO_Add",
                     "position": [
                         -74.4857177734375,
                         219.3343048095703,
                         745.3243408203125
                     ],
-                    "height": 780.4896850585938,
                     "transform": [
                         -0.09086962789297104,
                         0.40525269508361816,
@@ -12268,21 +12268,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 65,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.0355834960938,
                     "op": "BO_Add",
                     "position": [
                         617.801513671875,
                         -198.58511352539062,
                         434.62835693359375
                     ],
-                    "height": 781.0355834960938,
                     "transform": [
                         -0.29904821515083313,
                         -0.24175511300563812,
@@ -12317,21 +12317,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 66,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.4320068359375,
                     "op": "BO_Add",
                     "position": [
                         83.35155487060547,
                         764.5694580078125,
                         126.49271392822266
                     ],
-                    "height": 779.4320068359375,
                     "transform": [
                         0.13356643915176392,
                         0.5105815529823303,
@@ -12366,21 +12366,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 67,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.357177734375,
                     "op": "BO_Add",
                     "position": [
                         27.74608039855957,
                         -764.8722534179688,
                         152.17723083496094
                     ],
-                    "height": 780.357177734375,
                     "transform": [
                         -0.3792738914489746,
                         -0.4592137634754181,
@@ -12415,21 +12415,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 68,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.234619140625,
                     "op": "BO_Add",
                     "position": [
                         -646.2454833984375,
                         404.5082092285156,
                         165.8492889404297
                     ],
-                    "height": 780.234619140625,
                     "transform": [
                         0.22610773146152496,
                         0.2630248963832855,
@@ -12464,21 +12464,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 69,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.285400390625,
                     "op": "BO_Add",
                     "position": [
                         157.6610565185547,
                         421.55023193359375,
                         639.8507080078125
                     ],
-                    "height": 782.285400390625,
                     "transform": [
                         0.2790834903717041,
                         -0.4759315848350525,
@@ -12513,21 +12513,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 70,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.8544311523438,
                     "op": "BO_Add",
                     "position": [
                         -644.7308349609375,
                         -431.272705078125,
                         70.28704833984375
                     ],
-                    "height": 778.8544311523438,
                     "transform": [
                         0.16944001615047455,
                         -0.32123297452926636,
@@ -12562,21 +12562,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 71,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.8816528320312,
                     "op": "BO_Add",
                     "position": [
                         145.98683166503906,
                         -266.373046875,
                         718.2957153320312
                     ],
-                    "height": 779.8816528320312,
                     "transform": [
                         0.11917935311794281,
                         0.6162344217300415,
@@ -12611,21 +12611,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 72,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.8675537109375,
                     "op": "BO_Add",
                     "position": [
                         728.9027709960938,
                         -73.41080474853516,
                         270.30657958984375
                     ],
-                    "height": 780.8675537109375,
                     "transform": [
                         -0.08406196534633636,
                         -0.1777361035346985,
@@ -12660,21 +12660,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 73,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.2090454101562,
                     "op": "BO_Add",
                     "position": [
                         -214.74090576171875,
                         -579.065673828125,
                         478.3897399902344
                     ],
-                    "height": 781.2090454101562,
                     "transform": [
                         -0.5099846720695496,
                         -0.30043715238571167,
@@ -12709,21 +12709,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 74,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 778.8878173828125,
                     "op": "BO_Add",
                     "position": [
                         -166.68746948242188,
                         -311.928466796875,
                         693.9613037109375
                     ],
-                    "height": 778.8878173828125,
                     "transform": [
                         0.09691104292869568,
                         -0.43198150396347046,
@@ -12758,21 +12758,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 75,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.4772338867188,
                     "op": "BO_Add",
                     "position": [
                         46.519500732421875,
                         387.5984191894531,
                         676.9862060546875
                     ],
-                    "height": 781.4772338867188,
                     "transform": [
                         0.22752784192562103,
                         -0.3561117649078369,
@@ -12807,21 +12807,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 76,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.7978515625,
                     "op": "BO_Add",
                     "position": [
                         165.80503845214844,
                         336.4937744140625,
                         687.0611572265625
                     ],
-                    "height": 782.7978515625,
                     "transform": [
                         -0.4406605660915375,
                         0.0250965915620327,
@@ -12856,21 +12856,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 77,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.0618896484375,
                     "op": "BO_Add",
                     "position": [
                         -598.4406127929688,
                         407.46063232421875,
                         293.0910949707031
                     ],
-                    "height": 781.0618896484375,
                     "transform": [
                         -0.2717125713825226,
                         -0.004847817122936249,
@@ -12905,21 +12905,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 78,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 783.1709594726562,
                     "op": "BO_Add",
                     "position": [
                         482.5273132324219,
                         -384.30670166015625,
                         482.5273132324219
                     ],
-                    "height": 783.1709594726562,
                     "transform": [
                         0.2770742177963257,
                         -0.12442614138126373,
@@ -12954,21 +12954,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 79,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 783.1709594726562,
                     "op": "BO_Add",
                     "position": [
                         482.5273132324219,
                         -384.30670166015625,
                         482.5273132324219
                     ],
-                    "height": 783.1709594726562,
                     "transform": [
                         0.20955945551395416,
                         -0.46557360887527466,
@@ -13003,21 +13003,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 80,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.5062255859375,
                     "op": "BO_Add",
                     "position": [
                         -517.3729858398438,
                         274.59478759765625,
                         517.3729858398438
                     ],
-                    "height": 781.5062255859375,
                     "transform": [
                         0.051859453320503235,
                         -0.3696146309375763,
@@ -13052,21 +13052,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 81,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 781.14697265625,
                     "op": "BO_Add",
                     "position": [
                         243.14971923828125,
                         540.9461059570312,
                         508.3759460449219
                     ],
-                    "height": 781.14697265625,
                     "transform": [
                         -0.0032906346023082733,
                         -0.48059314489364624,
@@ -13101,21 +13101,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 82,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.8267211914062,
                     "op": "BO_Add",
                     "position": [
                         -150.6182403564453,
                         478.5872802734375,
                         600.9041137695312
                     ],
-                    "height": 782.8267211914062,
                     "transform": [
                         -0.15075893700122833,
                         0.3132491409778595,
@@ -13150,21 +13150,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 83,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.04541015625,
                     "op": "BO_Add",
                     "position": [
                         646.2275390625,
                         301.1505126953125,
                         316.4951477050781
                     ],
-                    "height": 780.04541015625,
                     "transform": [
                         0.04334082081913948,
                         0.24941039085388184,
@@ -13199,21 +13199,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 84,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.5767822265625,
                     "op": "BO_Add",
                     "position": [
                         523.0220336914062,
                         464.1683044433594,
                         344.5804748535156
                     ],
-                    "height": 779.5767822265625,
                     "transform": [
                         -0.14922195672988892,
                         0.2219994068145752,
@@ -13248,21 +13248,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 85,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 782.1793823242188,
                     "op": "BO_Add",
                     "position": [
                         516.82861328125,
                         204.13766479492188,
                         550.4730834960938
                     ],
-                    "height": 782.1793823242188,
                     "transform": [
                         -0.37186098098754883,
                         -0.2348405420780182,
@@ -13297,21 +13297,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 86,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 780.7964477539062,
                     "op": "BO_Add",
                     "position": [
                         -24.695741653442383,
                         246.11692810058594,
                         740.5807495117188
                     ],
-                    "height": 780.7964477539062,
                     "transform": [
                         0.047278471291065216,
                         0.5714826583862305,
@@ -13346,21 +13346,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 87,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_02.json",
+                    "height": 779.2759399414062,
                     "op": "BO_Add",
                     "position": [
                         -422.2566833496094,
                         -640.9228515625,
                         134.86412048339844
                     ],
-                    "height": 779.2759399414062,
                     "transform": [
                         0.46824216842651367,
                         -0.08023083955049515,
@@ -13395,21 +13395,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 88,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.0084228515625,
                     "op": "BO_Add",
                     "position": [
                         566.4158325195312,
                         295.2992248535156,
                         451.1192932128906
                     ],
-                    "height": 782.0084228515625,
                     "transform": [
                         0.4453675150871277,
                         0.014750443398952484,
@@ -13444,21 +13444,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 89,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.27880859375,
                     "op": "BO_Add",
                     "position": [
                         689.0567016601562,
                         141.94764709472656,
                         337.4710693359375
                     ],
-                    "height": 780.27880859375,
                     "transform": [
                         0.21954599022865295,
                         -0.019593000411987305,
@@ -13493,21 +13493,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 90,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.1898803710938,
                     "op": "BO_Add",
                     "position": [
                         28.11097526550293,
                         774.9312744140625,
                         76.34210205078125
                     ],
-                    "height": 779.1898803710938,
                     "transform": [
                         0.29318058490753174,
                         0.4986528754234314,
@@ -13542,21 +13542,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 91,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.1552124023438,
                     "op": "BO_Add",
                     "position": [
                         -238.20091247558594,
                         716.7610473632812,
                         195.3358154296875
                     ],
-                    "height": 780.1552124023438,
                     "transform": [
                         -0.011514939367771149,
                         -0.4625695049762726,
@@ -13591,21 +13591,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 92,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.6398315429688,
                     "op": "BO_Add",
                     "position": [
                         -717.67626953125,
                         297.4997863769531,
                         52.10232925415039
                     ],
-                    "height": 778.6398315429688,
                     "transform": [
                         -0.11505773663520813,
                         0.15096066892147064,
@@ -13640,21 +13640,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 93,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.2050170898438,
                     "op": "BO_Add",
                     "position": [
                         746.0264892578125,
                         124.53434753417969,
                         191.4565887451172
                     ],
-                    "height": 780.2050170898438,
                     "transform": [
                         0.10653672367334366,
                         -0.08559994399547577,
@@ -13689,21 +13689,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 94,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.5220336914062,
                     "op": "BO_Add",
                     "position": [
                         -166.22885131835938,
                         757.8637084960938,
                         75.26742553710938
                     ],
-                    "height": 779.5220336914062,
                     "transform": [
                         -0.5889902710914612,
                         0.0016919896006584167,
@@ -13738,21 +13738,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 95,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.6898803710938,
                     "op": "BO_Add",
                     "position": [
                         -687.2271118164062,
                         288.920654296875,
                         228.3859100341797
                     ],
-                    "height": 779.6898803710938,
                     "transform": [
                         0.08818280696868896,
                         0.1571987271308899,
@@ -13787,21 +13787,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 96,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.9195556640625,
                     "op": "BO_Add",
                     "position": [
                         507.654541015625,
                         312.30865478515625,
                         507.654541015625
                     ],
-                    "height": 782.9195556640625,
                     "transform": [
                         0.32729122042655945,
                         0.3295499086380005,
@@ -13836,21 +13836,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 97,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.9195556640625,
                     "op": "BO_Add",
                     "position": [
                         507.654541015625,
                         312.30865478515625,
                         507.654541015625
                     ],
-                    "height": 782.9195556640625,
                     "transform": [
                         0.27518293261528015,
                         0.16725918650627136,
@@ -13885,21 +13885,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 98,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.5804443359375,
                     "op": "BO_Add",
                     "position": [
                         473.90087890625,
                         -44.82075500488281,
                         617.3773193359375
                     ],
-                    "height": 779.5804443359375,
                     "transform": [
                         0.12842011451721191,
                         -0.4380110502243042,
@@ -13934,21 +13934,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 99,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.8221435546875,
                     "op": "BO_Add",
                     "position": [
                         -136.87948608398438,
                         624.0552368164062,
                         448.8900451660156
                     ],
-                    "height": 780.8221435546875,
                     "transform": [
                         0.5404775142669678,
                         0.023880135267972946,
@@ -13983,21 +13983,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 100,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.0308837890625,
                     "op": "BO_Add",
                     "position": [
                         -209.6754913330078,
                         -485.56988525390625,
                         574.68896484375
                     ],
-                    "height": 781.0308837890625,
                     "transform": [
                         0.03457319736480713,
                         0.4323655664920807,
@@ -14032,21 +14032,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 101,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.4552612304688,
                     "op": "BO_Add",
                     "position": [
                         -323.4312744140625,
                         -407.4226379394531,
                         579.1300659179688
                     ],
-                    "height": 778.4552612304688,
                     "transform": [
                         -0.4460847079753876,
                         0.07188749313354492,
@@ -14081,21 +14081,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 102,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.9425048828125,
                     "op": "BO_Add",
                     "position": [
                         -293.1316833496094,
                         -715.1773681640625,
                         96.67839813232422
                     ],
-                    "height": 778.9425048828125,
                     "transform": [
                         -0.2900407016277313,
                         0.35733985900878906,
@@ -14130,21 +14130,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 103,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.2012329101562,
                     "op": "BO_Add",
                     "position": [
                         -417.20758056640625,
                         633.2591552734375,
                         179.09579467773438
                     ],
-                    "height": 779.2012329101562,
                     "transform": [
                         0.41929522156715393,
                         0.320429265499115,
@@ -14179,21 +14179,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 104,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.9339599609375,
                     "op": "BO_Add",
                     "position": [
                         561.701904296875,
                         -465.9495544433594,
                         275.0980529785156
                     ],
-                    "height": 779.9339599609375,
                     "transform": [
                         0.08613796532154083,
                         -0.26089221239089966,
@@ -14228,21 +14228,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 105,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.6671142578125,
                     "op": "BO_Add",
                     "position": [
                         -129.5946807861328,
                         -710.7392578125,
                         295.79736328125
                     ],
-                    "height": 780.6671142578125,
                     "transform": [
                         0.43394041061401367,
                         0.05239907652139664,
@@ -14277,21 +14277,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 106,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 779.2710571289062,
                     "op": "BO_Add",
                     "position": [
                         -518.9320678710938,
                         -579.866455078125,
                         41.56774139404297
                     ],
-                    "height": 779.2710571289062,
                     "transform": [
                         -0.008044302463531494,
                         0.36499953269958496,
@@ -14326,21 +14326,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 107,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 782.2197265625,
                     "op": "BO_Add",
                     "position": [
                         -215.7588653564453,
                         649.2315673828125,
                         379.22869873046875
                     ],
-                    "height": 782.2197265625,
                     "transform": [
                         -0.4299286901950836,
                         0.22243908047676086,
@@ -14375,21 +14375,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 108,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.5541381835938,
                     "op": "BO_Add",
                     "position": [
                         753.0299072265625,
                         -201.95037841796875,
                         54.6689567565918
                     ],
-                    "height": 781.5541381835938,
                     "transform": [
                         0.05680355057120323,
                         0.07977618277072906,
@@ -14424,21 +14424,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 109,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.15673828125,
                     "op": "BO_Add",
                     "position": [
                         225.92971801757812,
                         81.04009246826172,
                         743.3667602539062
                     ],
-                    "height": 781.15673828125,
                     "transform": [
                         -0.36987119913101196,
                         -0.24687893688678741,
@@ -14473,21 +14473,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 110,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.3040771484375,
                     "op": "BO_Add",
                     "position": [
                         -479.16790771484375,
                         -287.5279846191406,
                         541.7408447265625
                     ],
-                    "height": 778.3040771484375,
                     "transform": [
                         -0.35313084721565247,
                         -0.24941220879554749,
@@ -14522,21 +14522,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 111,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 778.771484375,
                     "op": "BO_Add",
                     "position": [
                         -476.1081848144531,
                         -597.7913208007812,
                         149.83804321289062
                     ],
-                    "height": 778.771484375,
                     "transform": [
                         -0.2687879800796509,
                         0.28513526916503906,
@@ -14571,21 +14571,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 112,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 780.1626586914062,
                     "op": "BO_Add",
                     "position": [
                         734.7145385742188,
                         249.86569213867188,
                         80.09685516357422
                     ],
-                    "height": 780.1626586914062,
                     "transform": [
                         -0.11681711673736572,
                         -0.0914342850446701,
@@ -14620,21 +14620,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 113,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_rockformation_01.json",
+                    "height": 781.3601684570312,
                     "op": "BO_Add",
                     "position": [
                         20.84701156616211,
                         -520.8796997070312,
                         582.0426635742188
                     ],
-                    "height": 781.3601684570312,
                     "transform": [
                         0.018002362921833992,
                         -0.4711258113384247,
@@ -14669,21 +14669,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 114,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.2125854492188,
                     "op": "BO_Add",
                     "position": [
                         -165.045654296875,
                         -334.95263671875,
                         683.9144287109375
                     ],
-                    "height": 779.2125854492188,
                     "transform": [
                         0.042401544749736786,
                         0.3613068163394928,
@@ -14718,21 +14718,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 115,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.8956298828125,
                     "op": "BO_Add",
                     "position": [
                         -476.9181823730469,
                         355.7856140136719,
                         505.730712890625
                     ],
-                    "height": 780.8956298828125,
                     "transform": [
                         0.26068440079689026,
                         0.11966011673212051,
@@ -14767,21 +14767,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 116,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.529296875,
                     "op": "BO_Add",
                     "position": [
                         658.0180053710938,
                         356.1708679199219,
                         218.6788787841797
                     ],
-                    "height": 779.529296875,
                     "transform": [
                         -0.40627729892730713,
                         -0.5022603273391724,
@@ -14816,21 +14816,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 117,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.62939453125,
                     "op": "BO_Add",
                     "position": [
                         184.8855743408203,
                         -628.2633056640625,
                         422.9949035644531
                     ],
-                    "height": 779.62939453125,
                     "transform": [
                         -0.018293321132659912,
                         -1.2308498620986938,
@@ -14865,21 +14865,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 118,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.1655883789062,
                     "op": "BO_Add",
                     "position": [
                         124.5321273803711,
                         514.2730712890625,
                         574.660400390625
                     ],
-                    "height": 781.1655883789062,
                     "transform": [
                         1.2060468196868896,
                         0.3071826696395874,
@@ -14914,21 +14914,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 119,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.7431030273438,
                     "op": "BO_Add",
                     "position": [
                         316.0647888183594,
                         -177.4627227783203,
                         691.4982299804688
                     ],
-                    "height": 780.7431030273438,
                     "transform": [
                         -0.5898644328117371,
                         -0.5752874612808228,
@@ -14963,21 +14963,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 120,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.5470581054688,
                     "op": "BO_Add",
                     "position": [
                         -133.93795776367188,
                         -734.5591430664062,
                         224.00225830078125
                     ],
-                    "height": 779.5470581054688,
                     "transform": [
                         -0.23189634084701538,
                         0.8166064023971558,
@@ -15012,21 +15012,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 121,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.9453125,
                     "op": "BO_Add",
                     "position": [
                         420.2973937988281,
                         328.8016357421875,
                         574.2906494140625
                     ],
-                    "height": 783.9453125,
                     "transform": [
                         -0.34569674730300903,
                         -1.020171880722046,
@@ -15061,21 +15061,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 122,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.9427490234375,
                     "op": "BO_Add",
                     "position": [
                         308.0682678222656,
                         538.0774536132812,
                         476.4462585449219
                     ],
-                    "height": 781.9427490234375,
                     "transform": [
                         -0.4703401029109955,
                         -0.9373148679733276,
@@ -15110,21 +15110,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 123,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.2105102539062,
                     "op": "BO_Add",
                     "position": [
                         -727.8943481445312,
                         274.01495361328125,
                         26.404691696166992
                     ],
-                    "height": 778.2105102539062,
                     "transform": [
                         -0.24563108384609222,
                         -0.10573231428861618,
@@ -15159,21 +15159,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 124,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.625,
                     "op": "BO_Add",
                     "position": [
                         -592.6868896484375,
                         353.7649230957031,
                         364.6204833984375
                     ],
-                    "height": 780.625,
                     "transform": [
                         0.3574262857437134,
                         -0.1357172131538391,
@@ -15208,21 +15208,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 125,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.2156982421875,
                     "op": "BO_Add",
                     "position": [
                         0,
                         56.421512603759766,
                         777.1702880859375
                     ],
-                    "height": 779.2156982421875,
                     "transform": [
                         -0.823002278804779,
                         0.8665763139724731,
@@ -15257,21 +15257,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 126,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.281494140625,
                     "op": "BO_Add",
                     "position": [
                         -668.4176635742188,
                         -186.12306213378906,
                         354.761474609375
                     ],
-                    "height": 779.281494140625,
                     "transform": [
                         0.29523712396621704,
                         0.13905924558639526,
@@ -15306,21 +15306,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 127,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9280395507812,
                     "op": "BO_Add",
                     "position": [
                         637.58642578125,
                         322.89794921875,
                         312.2630920410156
                     ],
-                    "height": 779.9280395507812,
                     "transform": [
                         0.2623932957649231,
                         0.3648129999637604,
@@ -15355,21 +15355,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 128,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 783.2266845703125,
                     "op": "BO_Add",
                     "position": [
                         -305.1858215332031,
                         481.0275573730469,
                         537.5111083984375
                     ],
-                    "height": 783.2266845703125,
                     "transform": [
                         0.5418546795845032,
                         0.07596145570278168,
@@ -15404,21 +15404,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 129,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.5934448242188,
                     "op": "BO_Add",
                     "position": [
                         -441.2279968261719,
                         371.2050476074219,
                         527.648681640625
                     ],
-                    "height": 781.5934448242188,
                     "transform": [
                         -0.4230845868587494,
                         -0.4134747087955475,
@@ -15453,21 +15453,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 130,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.7239379882812,
                     "op": "BO_Add",
                     "position": [
                         333.6286315917969,
                         -370.431884765625,
                         602.13330078125
                     ],
-                    "height": 781.7239379882812,
                     "transform": [
                         -0.30348947644233704,
                         0.30200889706611633,
@@ -15502,21 +15502,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 131,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.7915649414062,
                     "op": "BO_Add",
                     "position": [
                         21.246002197265625,
                         504.3785705566406,
                         596.94970703125
                     ],
-                    "height": 781.7915649414062,
                     "transform": [
                         0.1710941046476364,
                         1.0122644901275635,
@@ -15551,21 +15551,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 132,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.3883666992188,
                     "op": "BO_Add",
                     "position": [
                         -5.20256038770428e-14,
                         662.70751953125,
                         412.0979919433594
                     ],
-                    "height": 780.3883666992188,
                     "transform": [
                         0.3227901756763458,
                         0.4324577748775482,
@@ -15600,21 +15600,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 134,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.4605102539062,
                     "op": "BO_Add",
                     "position": [
                         -709.6115112304688,
                         144.83143615722656,
                         290.8503723144531
                     ],
-                    "height": 780.4605102539062,
                     "transform": [
                         -0.011072974652051926,
                         -0.20397962629795074,
@@ -15649,21 +15649,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 135,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.54296875,
                     "op": "BO_Add",
                     "position": [
                         312.6336975097656,
                         -375.32305908203125,
                         610.0838623046875
                     ],
-                    "height": 781.54296875,
                     "transform": [
                         -0.8545766472816467,
                         -0.34099406003952026,
@@ -15698,21 +15698,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 136,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.342529296875,
                     "op": "BO_Add",
                     "position": [
                         755.895263671875,
                         100.34037780761719,
                         165.79708862304688
                     ],
-                    "height": 780.342529296875,
                     "transform": [
                         -0.12324872612953186,
                         0.03516663610935211,
@@ -15747,21 +15747,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 137,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.1998291015625,
                     "op": "BO_Add",
                     "position": [
                         741.7713012695312,
                         149.15823364257812,
                         190.36456298828125
                     ],
-                    "height": 780.1998291015625,
                     "transform": [
                         -0.3180338740348816,
                         0.0006449967622756958,
@@ -15796,21 +15796,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 138,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.263671875,
                     "op": "BO_Add",
                     "position": [
                         730.7501220703125,
                         -275.0899963378906,
                         26.508285522460938
                     ],
-                    "height": 781.263671875,
                     "transform": [
                         0.24687591195106506,
                         0.19547955691814423,
@@ -15845,21 +15845,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 139,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0346069335938,
                     "op": "BO_Add",
                     "position": [
                         -1.2973532025149087e-13,
                         -193.65219116210938,
                         754.581787109375
                     ],
-                    "height": 779.0346069335938,
                     "transform": [
                         0.8010045886039734,
                         -0.5642873644828796,
@@ -15894,21 +15894,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 140,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.33203125,
                     "op": "BO_Add",
                     "position": [
                         268.8428649902344,
                         724.9557495117188,
                         97.57633209228516
                     ],
-                    "height": 779.33203125,
                     "transform": [
                         0.054495736956596375,
                         -0.6944265961647034,
@@ -15943,21 +15943,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 141,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.2659912109375,
                     "op": "BO_Add",
                     "position": [
                         -718.4968872070312,
                         271.7615051269531,
                         131.00918579101562
                     ],
-                    "height": 779.2659912109375,
                     "transform": [
                         -0.22596056759357452,
                         -0.17734163999557495,
@@ -15992,21 +15992,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 142,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.6737670898438,
                     "op": "BO_Add",
                     "position": [
                         389.7444152832031,
                         -48.97864532470703,
                         674.6494750976562
                     ],
-                    "height": 780.6737670898438,
                     "transform": [
                         -0.4273093342781067,
                         -0.15018333494663239,
@@ -16041,21 +16041,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 143,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 783.1919555664062,
                     "op": "BO_Add",
                     "position": [
                         -157.84375,
                         422.038818359375,
                         640.5921630859375
                     ],
-                    "height": 783.1919555664062,
                     "transform": [
                         -0.3346342444419861,
                         0.3533227741718292,
@@ -16090,21 +16090,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 144,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.6300048828125,
                     "op": "BO_Add",
                     "position": [
                         444.7804260253906,
                         -181.4522247314453,
                         616.5964965820312
                     ],
-                    "height": 781.6300048828125,
                     "transform": [
                         -0.3713674545288086,
                         0.651423990726471,
@@ -16139,21 +16139,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 145,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 782.6756591796875,
                     "op": "BO_Add",
                     "position": [
                         -46.100006103515625,
                         -634.9981079101562,
                         455.22900390625
                     ],
-                    "height": 782.6756591796875,
                     "transform": [
                         -0.5700276494026184,
                         0.021621013060212135,
@@ -16188,21 +16188,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 146,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.2220458984375,
                     "op": "BO_Add",
                     "position": [
                         -217.4674835205078,
                         -530.5732421875,
                         530.5732421875
                     ],
-                    "height": 781.2220458984375,
                     "transform": [
                         -0.3169282078742981,
                         -0.2802344262599945,
@@ -16237,21 +16237,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 147,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2220458984375,
                     "op": "BO_Add",
                     "position": [
                         -217.4674835205078,
                         -530.5732421875,
                         530.5732421875
                     ],
-                    "height": 781.2220458984375,
                     "transform": [
                         -0.9525518417358398,
                         0.5967374444007874,
@@ -16286,21 +16286,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 148,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.42431640625,
                     "op": "BO_Add",
                     "position": [
                         -551.8366088867188,
                         182.3647918701172,
                         522.3442993164062
                     ],
-                    "height": 781.42431640625,
                     "transform": [
                         -0.5607271194458008,
                         0.5365666747093201,
@@ -16335,21 +16335,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 149,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.0393676757812,
                     "op": "BO_Add",
                     "position": [
                         -233.67861938476562,
                         -463.64447021484375,
                         582.1421508789062
                     ],
-                    "height": 780.0393676757812,
                     "transform": [
                         -0.2732781171798706,
                         -1.0828323364257812,
@@ -16384,21 +16384,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 150,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2960205078125,
                     "op": "BO_Add",
                     "position": [
                         -579.9738159179688,
                         423.4391784667969,
                         307.820068359375
                     ],
-                    "height": 781.2960205078125,
                     "transform": [
                         -0.15606734156608582,
                         0.7680714130401611,
@@ -16433,21 +16433,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 151,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.6434326171875,
                     "op": "BO_Add",
                     "position": [
                         -193.15716552734375,
                         -752.6529541015625,
                         49.89338302612305
                     ],
-                    "height": 778.6434326171875,
                     "transform": [
                         -0.6733232736587524,
                         0.7819778323173523,
@@ -16482,21 +16482,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 152,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7764892578125,
                     "op": "BO_Add",
                     "position": [
                         -508.2057189941406,
                         567.8806762695312,
                         165.1964569091797
                     ],
-                    "height": 779.7764892578125,
                     "transform": [
                         -0.6151232719421387,
                         0.02478557825088501,
@@ -16531,21 +16531,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 153,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.5834350585938,
                     "op": "BO_Add",
                     "position": [
                         -236.10983276367188,
                         -304.1702880859375,
                         676.7012939453125
                     ],
-                    "height": 778.5834350585938,
                     "transform": [
                         -0.3284343481063843,
                         -1.0559402704238892,
@@ -16580,21 +16580,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 154,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.7091674804688,
                     "op": "BO_Add",
                     "position": [
                         -528.7244262695312,
                         -558.576904296875,
                         121.77978515625
                     ],
-                    "height": 778.7091674804688,
                     "transform": [
                         -0.22908945381641388,
                         -0.5042803287506104,
@@ -16629,21 +16629,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 155,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9244995117188,
                     "op": "BO_Add",
                     "position": [
                         -75.87223052978516,
                         695.9628295898438,
                         343.74603271484375
                     ],
-                    "height": 779.9244995117188,
                     "transform": [
                         0.12141638994216919,
                         -1.1298960447311401,
@@ -16678,21 +16678,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 156,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.9112548828125,
                     "op": "BO_Add",
                     "position": [
                         240.66473388671875,
                         587.1694946289062,
                         455.1206970214844
                     ],
-                    "height": 780.9112548828125,
                     "transform": [
                         0.9129477739334106,
                         -0.5541473627090454,
@@ -16727,21 +16727,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 157,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.6622924804688,
                     "op": "BO_Add",
                     "position": [
                         -746.9888305664062,
                         -4.8627494039906946e-14,
                         219.82415771484375
                     ],
-                    "height": 778.6622924804688,
                     "transform": [
                         -0.07386146485805511,
                         -0.2683454751968384,
@@ -16776,21 +16776,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 158,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.3953857421875,
                     "op": "BO_Add",
                     "position": [
                         -651.6769409179688,
                         0,
                         429.3416748046875
                     ],
-                    "height": 780.3953857421875,
                     "transform": [
                         -0.34173285961151123,
                         0.6227766871452332,
@@ -16825,21 +16825,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 159,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 782.6798706054688,
                     "op": "BO_Add",
                     "position": [
                         148.7076416015625,
                         216.93348693847656,
                         737.166015625
                     ],
-                    "height": 782.6798706054688,
                     "transform": [
                         -1.118577003479004,
                         0.04534990340471268,
@@ -16874,21 +16874,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 160,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.1990356445312,
                     "op": "BO_Add",
                     "position": [
                         -4.6049613639442474e-14,
                         586.584716796875,
                         514.4208984375
                     ],
-                    "height": 780.1990356445312,
                     "transform": [
                         -0.606711745262146,
                         0.5067731738090515,
@@ -16923,21 +16923,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 161,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 778.82177734375,
                     "op": "BO_Add",
                     "position": [
                         -563.8745727539062,
                         -61.08688735961914,
                         533.7389526367188
                     ],
-                    "height": 778.82177734375,
                     "transform": [
                         -0.4232558012008667,
                         0.5748399496078491,
@@ -16972,21 +16972,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 162,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.6434326171875,
                     "op": "BO_Add",
                     "position": [
                         411.61541748046875,
                         -48.028831481933594,
                         661.56640625
                     ],
-                    "height": 780.6434326171875,
                     "transform": [
                         -0.23454146087169647,
                         0.18446899950504303,
@@ -17021,21 +17021,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 163,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.5681762695312,
                     "op": "BO_Add",
                     "position": [
                         -716.2216796875,
                         -195.18882751464844,
                         238.0216827392578
                     ],
-                    "height": 779.5681762695312,
                     "transform": [
                         0.22260193526744843,
                         -0.0899236798286438,
@@ -17070,21 +17070,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 164,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.55810546875,
                     "op": "BO_Add",
                     "position": [
                         764.276123046875,
                         75.714111328125,
                         139.35646057128906
                     ],
-                    "height": 780.55810546875,
                     "transform": [
                         0.055416807532310486,
                         0.14113490283489227,
@@ -17119,21 +17119,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 165,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0027465820312,
                     "op": "BO_Add",
                     "position": [
                         -615.54296875,
                         -472.70428466796875,
                         67.10504150390625
                     ],
-                    "height": 779.0027465820312,
                     "transform": [
                         -0.21689699590206146,
                         -0.5415693521499634,
@@ -17168,21 +17168,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 166,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.276611328125,
                     "op": "BO_Add",
                     "position": [
                         50.77573013305664,
                         -84.27506256103516,
                         773.0404663085938
                     ],
-                    "height": 779.276611328125,
                     "transform": [
                         0.9289863705635071,
                         0.6970950961112976,
@@ -17217,21 +17217,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 167,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 778.3460083007812,
                     "op": "BO_Add",
                     "position": [
                         -343.4745178222656,
                         -401.8849792480469,
                         571.2584838867188
                     ],
-                    "height": 778.3460083007812,
                     "transform": [
                         0.39002057909965515,
                         0.099741131067276,
@@ -17266,21 +17266,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 168,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.9364624023438,
                     "op": "BO_Add",
                     "position": [
                         248.1404571533203,
                         -387.9908142089844,
                         630.6751098632812
                     ],
-                    "height": 780.9364624023438,
                     "transform": [
                         -0.7268663048744202,
                         -0.5489339828491211,
@@ -17315,21 +17315,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 169,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 779.3145141601562,
                     "op": "BO_Add",
                     "position": [
                         108.49497985839844,
                         745.25537109375,
                         200.3855438232422
                     ],
-                    "height": 779.3145141601562,
                     "transform": [
                         -0.2682514190673828,
                         0.3268094062805176,
@@ -17364,21 +17364,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 170,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.0034790039062,
                     "op": "BO_Add",
                     "position": [
                         -267.5330505371094,
                         -721.4237060546875,
                         121.73876953125
                     ],
-                    "height": 779.0034790039062,
                     "transform": [
                         1.1339491605758667,
                         0.3776407539844513,
@@ -17413,21 +17413,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 171,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7801513671875,
                     "op": "BO_Add",
                     "position": [
                         -658.2297973632812,
                         356.2854919433594,
                         218.749267578125
                     ],
-                    "height": 779.7801513671875,
                     "transform": [
                         -0.5532252192497253,
                         0.3522365391254425,
@@ -17462,21 +17462,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 172,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.14794921875,
                     "op": "BO_Add",
                     "position": [
                         460.2003173828125,
                         -435.6054382324219,
                         460.2003173828125
                     ],
-                    "height": 783.14794921875,
                     "transform": [
                         -0.341616690158844,
                         -0.6371632814407349,
@@ -17511,21 +17511,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 173,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.14794921875,
                     "op": "BO_Add",
                     "position": [
                         460.2003173828125,
                         -435.6054382324219,
                         460.2003173828125
                     ],
-                    "height": 783.14794921875,
                     "transform": [
                         0.19823366403579712,
                         -0.7893735766410828,
@@ -17560,21 +17560,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 174,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.4281005859375,
                     "op": "BO_Add",
                     "position": [
                         155.46484375,
                         605.7816772460938,
                         466.8267517089844
                     ],
-                    "height": 780.4281005859375,
                     "transform": [
                         -0.8977929353713989,
                         0.6641122698783875,
@@ -17609,21 +17609,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 175,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 778.68994140625,
                     "op": "BO_Add",
                     "position": [
                         426.1114807128906,
                         605.6951904296875,
                         240.66616821289062
                     ],
-                    "height": 778.68994140625,
                     "transform": [
                         0.17312192916870117,
                         0.3889978528022766,
@@ -17658,21 +17658,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 176,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.7279663085938,
                     "op": "BO_Add",
                     "position": [
                         568.023193359375,
                         -442.7156066894531,
                         301.4772644042969
                     ],
-                    "height": 780.7279663085938,
                     "transform": [
                         0.8487587571144104,
                         0.08059528470039368,
@@ -17707,21 +17707,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 177,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 782.7041015625,
                     "op": "BO_Add",
                     "position": [
                         -189.02740478515625,
                         334.07415771484375,
                         682.1207885742188
                     ],
-                    "height": 782.7041015625,
                     "transform": [
                         0.4649295210838318,
                         -0.7370920181274414,
@@ -17756,21 +17756,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 178,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.68408203125,
                     "op": "BO_Add",
                     "position": [
                         -156.85279846191406,
                         715.116943359375,
                         271.05859375
                     ],
-                    "height": 780.68408203125,
                     "transform": [
                         0.03652118891477585,
                         -1.1620230674743652,
@@ -17805,21 +17805,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 179,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.9364624023438,
                     "op": "BO_Add",
                     "position": [
                         524.3992309570312,
                         -143.51173400878906,
                         559.2053833007812
                     ],
-                    "height": 779.9364624023438,
                     "transform": [
                         0.5914698839187622,
                         -0.35764867067337036,
@@ -17854,21 +17854,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 180,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 781.1068115234375,
                     "op": "BO_Add",
                     "position": [
                         176.20733642578125,
                         109.62744140625,
                         753.0343017578125
                     ],
-                    "height": 781.1068115234375,
                     "transform": [
                         -0.04219285026192665,
                         0.5650054812431335,
@@ -17903,21 +17903,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 181,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.4727172851562,
                     "op": "BO_Add",
                     "position": [
                         73.46770477294922,
                         270.5160827636719,
                         729.4677734375
                     ],
-                    "height": 781.4727172851562,
                     "transform": [
                         -0.4254426658153534,
                         0.9402397274971008,
@@ -17952,21 +17952,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 182,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.48779296875,
                     "op": "BO_Add",
                     "position": [
                         75.99211883544922,
                         111.90467834472656,
                         768.6766357421875
                     ],
-                    "height": 780.48779296875,
                     "transform": [
                         0.6089944839477539,
                         0.4726157486438751,
@@ -18001,21 +18001,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 183,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.0670166015625,
                     "op": "BO_Add",
                     "position": [
                         276.4327087402344,
                         -342.4718933105469,
                         645.2625122070312
                     ],
-                    "height": 781.0670166015625,
                     "transform": [
                         0.15704326331615448,
                         -0.827788233757019,
@@ -18050,21 +18050,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 184,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.3971557617188,
                     "op": "BO_Add",
                     "position": [
                         24.952861785888672,
                         687.8720092773438,
                         367.7352600097656
                     ],
-                    "height": 780.3971557617188,
                     "transform": [
                         -0.5181614756584167,
                         -1.1320092678070068,
@@ -18099,21 +18099,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 185,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.8864135742188,
                     "op": "BO_Add",
                     "position": [
                         -657.0897827148438,
                         -114.21427154541016,
                         404.2410583496094
                     ],
-                    "height": 779.8864135742188,
                     "transform": [
                         0.5467119812965393,
                         -0.29199522733688354,
@@ -18148,21 +18148,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 186,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.2705078125,
                     "op": "BO_Add",
                     "position": [
                         -480.9941711425781,
                         288.62384033203125,
                         543.8056030273438
                     ],
-                    "height": 781.2705078125,
                     "transform": [
                         0.6272368431091309,
                         -0.7582573294639587,
@@ -18197,21 +18197,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 187,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 783.066650390625,
                     "op": "BO_Add",
                     "position": [
                         324.256103515625,
                         475.32928466796875,
                         531.1436767578125
                     ],
-                    "height": 783.066650390625,
                     "transform": [
                         -0.3870530128479004,
                         -1.0952738523483276,
@@ -18246,21 +18246,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 188,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.4879150390625,
                     "op": "BO_Add",
                     "position": [
                         696.9379272460938,
                         -241.25303649902344,
                         258.4527587890625
                     ],
-                    "height": 781.4879150390625,
                     "transform": [
                         0.3888908922672272,
                         0.1650174856185913,
@@ -18295,21 +18295,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 189,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 779.7203979492188,
                     "op": "BO_Add",
                     "position": [
                         4.3283183704919195e-14,
                         -319.66796875,
                         711.1796875
                     ],
-                    "height": 779.7203979492188,
                     "transform": [
                         0.6339004635810852,
                         0.5549692511558533,
@@ -18344,21 +18344,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 190,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.8904418945312,
                     "op": "BO_Add",
                     "position": [
                         106.00424194335938,
                         -581.3616943359375,
                         510.462158203125
                     ],
-                    "height": 780.8904418945312,
                     "transform": [
                         0.2950339913368225,
                         0.1906891167163849,
@@ -18393,21 +18393,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 191,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.1427001953125,
                     "op": "BO_Add",
                     "position": [
                         -583.8038940429688,
                         279.2425231933594,
                         437.4705505371094
                     ],
-                    "height": 781.1427001953125,
                     "transform": [
                         -0.2028617560863495,
                         -0.41999107599258423,
@@ -18442,21 +18442,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 192,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.7149658203125,
                     "op": "BO_Add",
                     "position": [
                         -535.1746826171875,
                         260.8646545410156,
                         506.5729064941406
                     ],
-                    "height": 781.7149658203125,
                     "transform": [
                         0.49547597765922546,
                         -0.6507179141044617,
@@ -18491,21 +18491,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 193,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_mountain_01.json",
+                    "height": 780.5725708007812,
                     "op": "BO_Add",
                     "position": [
                         26.144800186157227,
                         -720.7301025390625,
                         298.5936279296875
                     ],
-                    "height": 780.5725708007812,
                     "transform": [
                         0.13873915374279022,
                         -0.3904200792312622,
@@ -18540,21 +18540,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 194,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 780.387939453125,
                     "op": "BO_Add",
                     "position": [
                         -105.31362915039062,
                         -723.4025268554688,
                         273.1357727050781
                     ],
-                    "height": 780.387939453125,
                     "transform": [
                         -0.6443964242935181,
                         0.4371630549430847,
@@ -18589,21 +18589,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 195,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/toxicmidlands/brushes/tml_jet_01.json",
+                    "height": 781.494140625,
                     "op": "BO_Add",
                     "position": [
                         339.8734130859375,
                         -421.99481201171875,
                         563.1514282226562
                     ],
-                    "height": 781.494140625,
                     "transform": [
                         0.5400912761688232,
                         0.42012637853622437,
@@ -18638,21 +18638,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 196,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 779.2445678710938,
                     "op": "BO_Add",
                     "position": [
                         238.56976318359375,
                         667.752197265625,
                         -323.130859375
                     ],
-                    "height": 779.2445678710938,
                     "transform": [
                         1.3521836996078491,
                         -0.721621572971344,
@@ -18687,21 +18687,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 197,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 779.2445678710938,
                     "op": "BO_Add",
                     "position": [
                         238.56976318359375,
                         667.752197265625,
                         -323.130859375
                     ],
-                    "height": 779.2445678710938,
                     "transform": [
                         1.3521836996078491,
                         -0.721621572971344,
@@ -18736,8 +18736,8 @@
                     ],
                     "mirrored": true,
                     "twinId": 197,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 }
@@ -20036,15 +20036,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 400.3414611816406,
                     "op": "BO_Subtract",
                     "position": [
                         -220.5638427734375,
                         -241.93994140625,
                         -230.41253662109375
                     ],
-                    "height": 400.3414611816406,
                     "transform": [
                         0.5982758402824402,
                         -1.647263526916504,
@@ -20079,21 +20079,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 400.3414611816406,
                     "op": "BO_Subtract",
                     "position": [
                         -220.5638427734375,
                         -241.93994140625,
                         -230.41253662109375
                     ],
-                    "height": 400.3414611816406,
                     "transform": [
                         0.5982758402824402,
                         -1.647263526916504,
@@ -20128,21 +20128,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 400.76190185546875,
                     "op": "BO_Subtract",
                     "position": [
                         -213.42428588867188,
                         -136.14849853515625,
                         310.6827392578125
                     ],
-                    "height": 400.76190185546875,
                     "transform": [
                         1.1427299976348877,
                         -0.13860152661800385,
@@ -20177,21 +20177,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 400.76190185546875,
                     "op": "BO_Subtract",
                     "position": [
                         -213.42428588867188,
                         -136.14849853515625,
                         310.6827392578125
                     ],
-                    "height": 400.76190185546875,
                     "transform": [
                         1.1427299976348877,
                         -0.13860152661800385,
@@ -20226,21 +20226,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 401.04620361328125,
                     "op": "BO_Subtract",
                     "position": [
                         128.08349609375,
                         -160.52749633789062,
                         344.475830078125
                     ],
-                    "height": 401.04620361328125,
                     "transform": [
                         1.3893413543701172,
                         0.1010892391204834,
@@ -20275,21 +20275,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 401.04620361328125,
                     "op": "BO_Subtract",
                     "position": [
                         128.08349609375,
                         -160.52749633789062,
                         344.475830078125
                     ],
-                    "height": 401.04620361328125,
                     "transform": [
                         1.3893413543701172,
                         0.1010892391204834,
@@ -20324,21 +20324,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 403.1155700683594,
                     "op": "BO_Subtract",
                     "position": [
                         146.73971557617188,
                         232.13168334960938,
                         295.100830078125
                     ],
-                    "height": 403.1155700683594,
                     "transform": [
                         2.9551899433135986,
                         -0.3872685730457306,
@@ -20373,21 +20373,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 403.1155700683594,
                     "op": "BO_Subtract",
                     "position": [
                         146.73971557617188,
                         232.13168334960938,
                         295.100830078125
                     ],
-                    "height": 403.1155700683594,
                     "transform": [
                         2.9551899433135986,
                         -0.3872685730457306,
@@ -20422,21 +20422,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 402.578125,
                     "op": "BO_Add",
                     "position": [
                         274.6248779296875,
                         -94.72412109375,
                         278.7071533203125
                     ],
-                    "height": 402.578125,
                     "transform": [
                         1.2470345497131348,
                         0.16313588619232178,
@@ -20471,21 +20471,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 402.578125,
                     "op": "BO_Add",
                     "position": [
                         274.6248779296875,
                         -94.72412109375,
                         278.7071533203125
                     ],
-                    "height": 402.578125,
                     "transform": [
                         1.2470345497131348,
                         0.16313588619232178,
@@ -20520,21 +20520,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 403.3357849121094,
                     "op": "BO_Add",
                     "position": [
                         229.611572265625,
                         -61.3194580078125,
                         325.88067626953125
                     ],
-                    "height": 403.3357849121094,
                     "transform": [
                         0.7614550590515137,
                         0.6011114716529846,
@@ -20569,21 +20569,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 403.3357849121094,
                     "op": "BO_Add",
                     "position": [
                         229.611572265625,
                         -61.3194580078125,
                         325.88067626953125
                     ],
-                    "height": 403.3357849121094,
                     "transform": [
                         0.7614550590515137,
                         0.6011114716529846,
@@ -20618,21 +20618,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 402.1492614746094,
                     "op": "BO_Add",
                     "position": [
                         316.057373046875,
                         -50.89825439453125,
                         243.39501953125
                     ],
-                    "height": 402.1492614746094,
                     "transform": [
                         0.5696099996566772,
                         -0.24056899547576904,
@@ -20667,21 +20667,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "height": 402.1492614746094,
                     "op": "BO_Add",
                     "position": [
                         316.057373046875,
                         -50.89825439453125,
                         243.39501953125
                     ],
-                    "height": 402.1492614746094,
                     "transform": [
                         0.5696099996566772,
                         -0.24056899547576904,
@@ -20716,21 +20716,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "height": 401.0423278808594,
                     "op": "BO_Add",
                     "position": [
                         -63.652156829833984,
                         -279.4881591796875,
                         280.481201171875
                     ],
-                    "height": 401.0423278808594,
                     "transform": [
                         1.1920632123947144,
                         -0.07875728607177734,
@@ -20765,21 +20765,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "height": 401.0423278808594,
                     "op": "BO_Add",
                     "position": [
                         -63.652156829833984,
                         -279.4881591796875,
                         280.481201171875
                     ],
-                    "height": 401.0423278808594,
                     "transform": [
                         1.1920632123947144,
                         -0.07875728607177734,
@@ -20814,21 +20814,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 401.57470703125,
                     "op": "BO_Subtract",
                     "position": [
                         -265.1080322265625,
                         218.0692138671875,
                         -208.38856506347656
                     ],
-                    "height": 401.57470703125,
                     "transform": [
                         0.25676020979881287,
                         2.034404754638672,
@@ -20863,21 +20863,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 401.57470703125,
                     "op": "BO_Subtract",
                     "position": [
                         -265.1080322265625,
                         218.0692138671875,
                         -208.38856506347656
                     ],
-                    "height": 401.57470703125,
                     "transform": [
                         0.25676020979881287,
                         2.034404754638672,
@@ -20912,8 +20912,8 @@
                     ],
                     "mirrored": true,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 }
