@@ -30,5 +30,10 @@
         "team"
     ],
     "priority": 100,
-    "enabled": true
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems",
+        "com.pa.grandhomie.simplebiomes.server",
+        "com.pa.anonemous2.alienworlds.released.server"
+    ]
 }
