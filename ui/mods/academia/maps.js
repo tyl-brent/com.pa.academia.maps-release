@@ -26,5 +26,20 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/toxicitiy-a_5v5.pas",
 "coui://ui/mods/academia/systems/toxicitiy-duo_5v5.pas",
 "coui://ui/mods/academia/systems/sylphium_5v5.pas",
-"coui://ui/mods/academia/systems/kokoro_5v5.pas"
+"coui://ui/mods/academia/systems/kokoro_5v5.pas",
+"coui://ui/mods/academia/systems/kra'z_5v5.pas",
+"coui://ui/mods/academia/systems/ocean'rae_(water) 5v5.pas",
+"coui://ui/mods/academia/systems/prime_5v5.pas",
+"coui://ui/mods/academia/systems/ancients_4v4.pas",
+"coui://ui/mods/academia/systems/archon_(isolated water) 5v5.pas",
+"coui://ui/mods/academia/systems/archon_smiley (isolated water) 5v5.pas",
+"coui://ui/mods/academia/systems/archon_smiley-m 5v5.pas",
+"coui://ui/mods/academia/systems/archon-m_5v5.pas",
+"coui://ui/mods/academia/systems/bra'x_5v5.pas",
+"coui://ui/mods/academia/systems/tranquil_5v5.pas",
+"coui://ui/mods/academia/systems/tranquil-exrtra_5v5.pas",
+"coui://ui/mods/academia/systems/tranquil-semi_5v5.pas",
+"coui://ui/mods/academia/systems/aca's_universe - s.pas",
+"coui://ui/mods/academia/systems/aca's_universe trio.pas",
+"coui://ui/mods/academia/systems/aca's_universe.pas"
 ]);
