@@ -42,5 +42,6 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/aca's_universe - s.pas",
 "coui://ui/mods/academia/systems/aca's_universe trio.pas",
 "coui://ui/mods/academia/systems/aca's_universe.pas",
-"coui://ui/mods/academia/systems/devil's_peak 5v5.pas"
+"coui://ui/mods/academia/systems/devil's_peak 5v5.pas",
+"coui://ui/mods/academia/systems/ori'calcum_5v5.pas"
 ]);
