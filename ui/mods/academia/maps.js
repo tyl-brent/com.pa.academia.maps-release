@@ -43,5 +43,13 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/aca's_universe trio.pas",
 "coui://ui/mods/academia/systems/aca's_universe.pas",
 "coui://ui/mods/academia/systems/devil's_peak 5v5.pas",
-"coui://ui/mods/academia/systems/ori'calcum_5v5.pas"
+"coui://ui/mods/academia/systems/ori'calcum_5v5.pas",
+"coui://ui/mods/academia/systems/arayk_5v5.pas",
+"coui://ui/mods/academia/systems/destopia_10v10.pas",
+"coui://ui/mods/academia/systems/mel'_5v5.pas",
+"coui://ui/mods/academia/systems/mix'ii_10v10.pas",
+"coui://ui/mods/academia/systems/monk's_temple 5v5.pas",
+"coui://ui/mods/academia/systems/naef_9v9.pas",
+"coui://ui/mods/academia/systems/xi'ii_7v7.pas",
+"coui://ui/mods/academia/systems/ori'leo_5v5.pas"
 ]);
