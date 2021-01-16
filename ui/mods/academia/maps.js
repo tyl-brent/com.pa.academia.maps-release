@@ -59,5 +59,16 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/se'terra_6v6.pas",
 "coui://ui/mods/academia/systems/dyr'ii_6v6.pas",
 "coui://ui/mods/academia/systems/sil'naria_7v7.pas",
-"coui://ui/mods/academia/systems/sil'naria-m_7v7.pas"
+"coui://ui/mods/academia/systems/sil'naria-m_7v7.pas",
+"coui://ui/mods/academia/systems/cinder'ea_1v1 - 13v13.pas",
+"coui://ui/mods/academia/systems/iron_throne 1v1 - 15v15.pas",
+"coui://ui/mods/academia/systems/millenium'f_1v1 - 14v14.pas",
+"coui://ui/mods/academia/systems/mazii'_1v1 - 12v12.pas",
+"coui://ui/mods/academia/systems/hilarius-m_1v1 - 12v12.pas",
+"coui://ui/mods/academia/systems/dystopia-m_1v1 - 10v10.pas",
+"coui://ui/mods/academia/systems/tai'jin_1v1 - 10v10.pas",
+"coui://ui/mods/academia/systems/se'terra_1v1 - 6v6.pas",
+"coui://ui/mods/academia/systems/devil's_peak 1v1 - 5v5.pas",
+"coui://ui/mods/academia/systems/exos_1v1 - 8v8.pas",
+"coui://ui/mods/academia/systems/apex_1v1 - 8v8.pas"
 ]);
