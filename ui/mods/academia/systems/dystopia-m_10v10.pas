@@ -5,7 +5,7 @@
     "version": "",
     "planets": [
         {
-            "name": "Destopia",
+            "name": "Dystopia",
             "mass": 10000,
             "position_x": -100,
             "position_y": -18700,
@@ -39,15 +39,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.0784301757812,
                     "op": "BO_Subtract",
                     "position": [
                         -468.4466552734375,
                         -484.2232666015625,
                         -375.030029296875
                     ],
-                    "height": 771.0784301757812,
                     "transform": [
                         0.920251727104187,
                         -2.428882360458374,
@@ -82,21 +82,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 1,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.0784301757812,
                     "op": "BO_Subtract",
                     "position": [
                         -468.4466552734375,
                         -484.2232666015625,
                         -375.030029296875
                     ],
-                    "height": 771.0784301757812,
                     "transform": [
                         0.920251727104187,
                         -2.428882360458374,
@@ -131,21 +131,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 1,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.1603393554688,
                     "op": "BO_Subtract",
                     "position": [
                         542.61328125,
                         -545.587158203125,
                         50.92932891845703
                     ],
-                    "height": 771.1603393554688,
                     "transform": [
                         1.3696620464324951,
                         1.2185440063476562,
@@ -180,21 +180,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 2,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.1603393554688,
                     "op": "BO_Subtract",
                     "position": [
                         542.61328125,
                         -545.587158203125,
                         50.92932891845703
                     ],
-                    "height": 771.1603393554688,
                     "transform": [
                         1.3696620464324951,
                         1.2185440063476562,
@@ -229,21 +229,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 2,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.1060180664062,
                     "op": "BO_Subtract",
                     "position": [
                         414.24755859375,
                         -649.8385009765625,
                         26.70929718017578
                     ],
-                    "height": 771.1060180664062,
                     "transform": [
                         1.362811803817749,
                         0.8270094394683838,
@@ -278,21 +278,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 3,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "height": 771.1060180664062,
                     "op": "BO_Subtract",
                     "position": [
                         414.24755859375,
                         -649.8385009765625,
                         26.70929718017578
                     ],
-                    "height": 771.1060180664062,
                     "transform": [
                         1.362811803817749,
                         0.8270094394683838,
@@ -327,21 +327,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 3,
-                    "flooded": true,
                     "pathable": true,
+                    "flooded": true,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 771.13525390625,
                     "op": "BO_Add",
                     "position": [
                         388.35528564453125,
                         -656.6678466796875,
                         112.32574462890625
                     ],
-                    "height": 771.13525390625,
                     "transform": [
                         0.8564807772636414,
                         0.41176527738571167,
@@ -376,21 +376,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 771.13525390625,
                     "op": "BO_Add",
                     "position": [
                         388.35528564453125,
                         -656.6678466796875,
                         112.32574462890625
                     ],
-                    "height": 771.13525390625,
                     "transform": [
                         0.8564807772636414,
                         0.41176527738571167,
@@ -425,21 +425,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
+                    "height": 771.1419067382812,
                     "op": "BO_Add",
                     "position": [
                         353.8287048339844,
                         -678.4691162109375,
                         95.628173828125
                     ],
-                    "height": 771.1419067382812,
                     "transform": [
                         0.8126956224441528,
                         0.359157532453537,
@@ -474,21 +474,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
+                    "height": 771.1419067382812,
                     "op": "BO_Add",
                     "position": [
                         353.8287048339844,
                         -678.4691162109375,
                         95.628173828125
                     ],
-                    "height": 771.1419067382812,
                     "transform": [
                         0.8126956224441528,
                         0.359157532453537,
@@ -523,21 +523,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
+                    "height": 771.0711669921875,
                     "op": "BO_Add",
                     "position": [
                         385.16668701171875,
                         -650.6812133789062,
                         151.03445434570312
                     ],
-                    "height": 771.0711669921875,
                     "transform": [
                         0.7913481593132019,
                         0.3524859547615051,
@@ -572,21 +572,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
+                    "height": 771.0711669921875,
                     "op": "BO_Add",
                     "position": [
                         385.16668701171875,
                         -650.6812133789062,
                         151.03445434570312
                     ],
-                    "height": 771.0711669921875,
                     "transform": [
                         0.7913481593132019,
                         0.3524859547615051,
@@ -621,21 +621,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 9,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
+                    "height": 774.26123046875,
                     "op": "BO_Add",
                     "position": [
                         -0.38336181640625,
                         -774.202392578125,
                         9.537872314453125
                     ],
-                    "height": 774.26123046875,
                     "transform": [
                         1.7299989461898804,
                         -0.0008460909011773765,
@@ -670,21 +670,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
+                    "height": 774.26123046875,
                     "op": "BO_Add",
                     "position": [
                         -0.38336181640625,
                         -774.202392578125,
                         9.537872314453125
                     ],
-                    "height": 774.26123046875,
                     "transform": [
                         1.7299989461898804,
                         -0.0008460909011773765,
@@ -719,21 +719,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 786.4820556640625,
                     "op": "BO_Add",
                     "position": [
                         -135.16046142578125,
                         -756.8935546875,
                         93.09226989746094
                     ],
-                    "height": 786.4820556640625,
                     "transform": [
                         1.7870652675628662,
                         0.13383445143699646,
@@ -768,21 +768,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 786.4820556640625,
                     "op": "BO_Add",
                     "position": [
                         -135.16046142578125,
                         -756.8935546875,
                         93.09226989746094
                     ],
-                    "height": 786.4820556640625,
                     "transform": [
                         1.7870652675628662,
                         0.13383445143699646,
@@ -817,21 +817,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 789.1657104492188,
                     "op": "BO_Add",
                     "position": [
                         -321.31134033203125,
                         -691.7025146484375,
                         126.85353088378906
                     ],
-                    "height": 789.1657104492188,
                     "transform": [
                         0.9860613346099854,
                         -0.9163990616798401,
@@ -866,21 +866,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 19,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 789.1657104492188,
                     "op": "BO_Add",
                     "position": [
                         -321.31134033203125,
                         -691.7025146484375,
                         126.85353088378906
                     ],
-                    "height": 789.1657104492188,
                     "transform": [
                         0.9860613346099854,
                         -0.9163990616798401,
@@ -915,21 +915,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 19,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 773.6866455078125,
                     "op": "BO_Add",
                     "position": [
                         -369.03375244140625,
                         -677.75390625,
                         55.27044677734375
                     ],
-                    "height": 773.6866455078125,
                     "transform": [
                         1.2996360063552856,
                         -0.6434647440910339,
@@ -964,21 +964,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 773.6866455078125,
                     "op": "BO_Add",
                     "position": [
                         -369.03375244140625,
                         -677.75390625,
                         55.27044677734375
                     ],
-                    "height": 773.6866455078125,
                     "transform": [
                         1.2996360063552856,
                         -0.6434647440910339,
@@ -1013,21 +1013,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
+                    "height": 773.202392578125,
                     "op": "BO_Add",
                     "position": [
                         -436.12164306640625,
                         -638.3870849609375,
                         -10.090396881103516
                     ],
-                    "height": 773.202392578125,
                     "transform": [
                         0.8257153034210205,
                         -0.00681304931640625,
@@ -1062,21 +1062,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
+                    "height": 773.202392578125,
                     "op": "BO_Add",
                     "position": [
                         -436.12164306640625,
                         -638.3870849609375,
                         -10.090396881103516
                     ],
-                    "height": 773.202392578125,
                     "transform": [
                         0.8257153034210205,
                         -0.00681304931640625,
@@ -1111,21 +1111,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 799.2088012695312,
                     "op": "BO_Add",
                     "position": [
                         284.4407958984375,
                         711.198486328125,
                         105.55559539794922
                     ],
-                    "height": 799.2088012695312,
                     "transform": [
                         2.1373367309570312,
                         -0.07679462432861328,
@@ -1160,21 +1160,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
+                    "height": 799.2088012695312,
                     "op": "BO_Add",
                     "position": [
                         284.4407958984375,
                         711.198486328125,
                         105.55559539794922
                     ],
-                    "height": 799.2088012695312,
                     "transform": [
                         2.1373367309570312,
                         -0.07679462432861328,
@@ -1209,21 +1209,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_05.json",
+                    "height": 783.5958251953125,
                     "op": "BO_Add",
                     "position": [
                         116.59286499023438,
                         762.55224609375,
                         80.43035888671875
                     ],
-                    "height": 783.5958251953125,
                     "transform": [
                         1.5966253280639648,
                         -0.2182762771844864,
@@ -1258,21 +1258,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 23,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_05.json",
+                    "height": 783.5958251953125,
                     "op": "BO_Add",
                     "position": [
                         116.59286499023438,
                         762.55224609375,
                         80.43035888671875
                     ],
-                    "height": 783.5958251953125,
                     "transform": [
                         1.5966253280639648,
                         -0.2182762771844864,
@@ -1307,21 +1307,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 23,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_06.json",
+                    "height": 775.05126953125,
                     "op": "BO_Add",
                     "position": [
                         -79.97901916503906,
                         765.25,
                         93.27532196044922
                     ],
-                    "height": 775.05126953125,
                     "transform": [
                         1.3902281522750854,
                         -1.2654346227645874,
@@ -1356,21 +1356,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 24,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_mountain_06.json",
+                    "height": 775.05126953125,
                     "op": "BO_Add",
                     "position": [
                         -79.97901916503906,
                         765.25,
                         93.27532196044922
                     ],
-                    "height": 775.05126953125,
                     "transform": [
                         1.3902281522750854,
                         -1.2654346227645874,
@@ -1405,21 +1405,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 24,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 773.1166381835938,
                     "op": "BO_Add",
                     "position": [
                         -433.6907958984375,
                         634.942626953125,
                         -80.433349609375
                     ],
-                    "height": 773.1166381835938,
                     "transform": [
                         1.6478973627090454,
                         1.306075930595398,
@@ -1454,21 +1454,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 27,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
+                    "height": 773.1166381835938,
                     "op": "BO_Add",
                     "position": [
                         -433.6907958984375,
                         634.942626953125,
                         -80.433349609375
                     ],
-                    "height": 773.1166381835938,
                     "transform": [
                         1.6478973627090454,
                         1.306075930595398,
@@ -1503,21 +1503,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 27,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 776.5951538085938,
                     "op": "BO_Add",
                     "position": [
                         -724.72509765625,
                         103.6907958984375,
                         259.07867431640625
                     ],
-                    "height": 776.5951538085938,
                     "transform": [
                         0.9445676803588867,
                         0.41395244002342224,
@@ -1552,21 +1552,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 38,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 776.5951538085938,
                     "op": "BO_Add",
                     "position": [
                         -724.72509765625,
                         103.6907958984375,
                         259.07867431640625
                     ],
-                    "height": 776.5951538085938,
                     "transform": [
                         0.9445676803588867,
                         0.41395244002342224,
@@ -1601,21 +1601,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 38,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
+                    "height": 779.3009643554688,
                     "op": "BO_Add",
                     "position": [
                         -738.38916015625,
                         -175.4535369873047,
                         158.39544677734375
                     ],
-                    "height": 779.3009643554688,
                     "transform": [
                         0.30071502923965454,
                         -0.34049147367477417,
@@ -1650,21 +1650,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 39,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
+                    "height": 779.3009643554688,
                     "op": "BO_Add",
                     "position": [
                         -738.38916015625,
                         -175.4535369873047,
                         158.39544677734375
                     ],
-                    "height": 779.3009643554688,
                     "transform": [
                         0.30071502923965454,
                         -0.34049147367477417,
@@ -1699,21 +1699,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 39,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 775.0020751953125,
                     "op": "BO_Add",
                     "position": [
                         -114.97454833984375,
                         -60.230224609375,
                         764.055908203125
                     ],
-                    "height": 775.0020751953125,
                     "transform": [
                         3.520543098449707,
                         -0.020668456330895424,
@@ -1748,21 +1748,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 42,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 775.0020751953125,
                     "op": "BO_Add",
                     "position": [
                         -114.97454833984375,
                         -60.230224609375,
                         764.055908203125
                     ],
-                    "height": 775.0020751953125,
                     "transform": [
                         3.520543098449707,
                         -0.020668456330895424,
@@ -1797,21 +1797,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 42,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 775.1837768554688,
                     "op": "BO_Add",
                     "position": [
                         -23.628936767578125,
                         -503.8573303222656,
                         588.625
                     ],
-                    "height": 775.1837768554688,
                     "transform": [
                         3.84796404838562,
                         -0.04335647448897362,
@@ -1846,21 +1846,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 44,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 775.1837768554688,
                     "op": "BO_Add",
                     "position": [
                         -23.628936767578125,
                         -503.8573303222656,
                         588.625
                     ],
-                    "height": 775.1837768554688,
                     "transform": [
                         3.84796404838562,
                         -0.04335647448897362,
@@ -1895,21 +1895,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 44,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 776.1963500976562,
                     "op": "BO_Add",
                     "position": [
                         -23.731842041015625,
                         409.67327880859375,
                         658.8515625
                     ],
-                    "height": 776.1963500976562,
                     "transform": [
                         3.821605920791626,
                         0.22471103072166443,
@@ -1944,21 +1944,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 45,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 776.1963500976562,
                     "op": "BO_Add",
                     "position": [
                         -23.731842041015625,
                         409.67327880859375,
                         658.8515625
                     ],
-                    "height": 776.1963500976562,
                     "transform": [
                         3.821605920791626,
                         0.22471103072166443,
@@ -1993,21 +1993,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 45,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
+                    "height": 775.128173828125,
                     "op": "BO_Add",
                     "position": [
                         -70.98072052001953,
                         180.8873291015625,
                         750.376708984375
                     ],
-                    "height": 775.128173828125,
                     "transform": [
                         1.1945518255233765,
                         0.3838391900062561,
@@ -2042,21 +2042,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 51,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
+                    "height": 775.128173828125,
                     "op": "BO_Add",
                     "position": [
                         -70.98072052001953,
                         180.8873291015625,
                         750.376708984375
                     ],
-                    "height": 775.128173828125,
                     "transform": [
                         1.1945518255233765,
                         0.3838391900062561,
@@ -2091,21 +2091,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 51,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.1220703125,
                     "op": "BO_Add",
                     "position": [
                         429.23309326171875,
                         -620.822265625,
                         158.01248168945312
                     ],
-                    "height": 771.1220703125,
                     "transform": [
                         0.830653727054596,
                         -0.013134807348251343,
@@ -2140,21 +2140,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 53,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.1220703125,
                     "op": "BO_Add",
                     "position": [
                         429.23309326171875,
                         -620.822265625,
                         158.01248168945312
                     ],
-                    "height": 771.1220703125,
                     "transform": [
                         0.830653727054596,
                         -0.013134807348251343,
@@ -2189,21 +2189,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 53,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "height": 775.890380859375,
                     "op": "BO_Add",
                     "position": [
                         510.71875,
                         -542.9234619140625,
                         200.537353515625
                     ],
-                    "height": 775.890380859375,
                     "transform": [
                         0.7762386798858643,
                         -0.2788259983062744,
@@ -2238,21 +2238,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 55,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "height": 775.890380859375,
                     "op": "BO_Add",
                     "position": [
                         510.71875,
                         -542.9234619140625,
                         200.537353515625
                     ],
-                    "height": 775.890380859375,
                     "transform": [
                         0.7762386798858643,
                         -0.2788259983062744,
@@ -2287,21 +2287,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 55,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
+                    "height": 773.8259887695312,
                     "op": "BO_Add",
                     "position": [
                         658.840087890625,
                         141.63002014160156,
                         -380.36468505859375
                     ],
-                    "height": 773.8259887695312,
                     "transform": [
                         0.39859485626220703,
                         -0.34092438220977783,
@@ -2336,21 +2336,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 56,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
+                    "height": 773.8259887695312,
                     "op": "BO_Add",
                     "position": [
                         658.840087890625,
                         141.63002014160156,
                         -380.36468505859375
                     ],
-                    "height": 773.8259887695312,
                     "transform": [
                         0.39859485626220703,
                         -0.34092438220977783,
@@ -2385,21 +2385,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 56,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
+                    "height": 766.1922607421875,
                     "op": "BO_Add",
                     "position": [
                         -293.6827392578125,
                         715.24365234375,
                         1.8079833984375
                     ],
-                    "height": 766.1922607421875,
                     "transform": [
                         1.1005654335021973,
                         -0.02349492907524109,
@@ -2434,21 +2434,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
+                    "height": 774.967529296875,
                     "op": "BO_Add",
                     "position": [
                         -198.50582885742188,
                         -728.4407958984375,
                         -174.76861572265625
                     ],
-                    "height": 774.967529296875,
                     "transform": [
                         0.9585134983062744,
                         -0.4136697053909302,
@@ -2483,21 +2483,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 58,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
+                    "height": 774.967529296875,
                     "op": "BO_Add",
                     "position": [
                         -198.50582885742188,
                         -728.4407958984375,
                         -174.76861572265625
                     ],
-                    "height": 774.967529296875,
                     "transform": [
                         0.9585134983062744,
                         -0.4136697053909302,
@@ -2532,21 +2532,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 58,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.677978515625,
                     "op": "BO_Add",
                     "position": [
                         535.331787109375,
                         -532.0963134765625,
                         -160.56231689453125
                     ],
-                    "height": 771.677978515625,
                     "transform": [
                         0.3923037052154541,
                         0.6040234565734863,
@@ -2581,21 +2581,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 59,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.677978515625,
                     "op": "BO_Add",
                     "position": [
                         535.331787109375,
                         -532.0963134765625,
                         -160.56231689453125
                     ],
-                    "height": 771.677978515625,
                     "transform": [
                         0.3923037052154541,
                         0.6040234565734863,
@@ -2630,21 +2630,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 59,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.1936645507812,
                     "op": "BO_Add",
                     "position": [
                         339.48126220703125,
                         -691.064697265625,
                         43.837860107421875
                     ],
-                    "height": 771.1936645507812,
                     "transform": [
                         0.816644549369812,
                         0.37324732542037964,
@@ -2679,21 +2679,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 60,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "height": 771.1936645507812,
                     "op": "BO_Add",
                     "position": [
                         339.48126220703125,
                         -691.064697265625,
                         43.837860107421875
                     ],
-                    "height": 771.1936645507812,
                     "transform": [
                         0.816644549369812,
                         0.37324732542037964,
@@ -2728,21 +2728,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 60,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
+                    "height": 773.7847900390625,
                     "op": "BO_Add",
                     "position": [
                         -81.62460327148438,
                         -283.07977294921875,
                         715.504150390625
                     ],
-                    "height": 773.7847900390625,
                     "transform": [
                         1.2250723838806152,
                         -0.21049964427947998,
@@ -2777,21 +2777,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 61,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_2_ramp.json",
+                    "height": 773.7847900390625,
                     "op": "BO_Add",
                     "position": [
                         -81.62460327148438,
                         -283.07977294921875,
                         715.504150390625
                     ],
-                    "height": 773.7847900390625,
                     "transform": [
                         1.2250723838806152,
                         -0.21049964427947998,
@@ -2826,8 +2826,8 @@
                     ],
                     "mirrored": true,
                     "twinId": 61,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
