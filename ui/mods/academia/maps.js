@@ -70,5 +70,7 @@ cShareSystems.load_pas("Academia Teams", [
 "coui://ui/mods/academia/systems/se'terra_1v1 - 6v6.pas",
 "coui://ui/mods/academia/systems/devil's_peak 1v1 - 5v5.pas",
 "coui://ui/mods/academia/systems/exos_1v1 - 8v8.pas",
+"coui://ui/mods/academia/systems/anjelica_1v1 - 7v7.pas",
+"coui://ui/mods/academia/systems/myr'n_1v1 - 8v8.pas",
 "coui://ui/mods/academia/systems/apex_1v1 - 8v8.pas"
 ]);
